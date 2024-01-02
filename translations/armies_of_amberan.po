@@ -1,151 +1,27 @@
+# Albin <albin2.parmentier@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-20 12:29 UTC\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-10-28 00:22 UTC\n"
+"PO-Revision-Date: 2022-10-28 02:50+0200\n"
+"Last-Translator: Albin <albin2.parmentier@gmail.com>\n"
+"Language-Team: amateur\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
-#. [multiplayer_side]: id=empfinn_aoh, type=random
-#. [multiplayer_side]: id=empfinn_def, type=random
-#. [multiplayer_side]: id=empfinn_lord, type=emp_empereur
-#: Armies_of_Amberan\factions\empire-aoh.cfg:4
-#: Armies_of_Amberan\factions\empire-default.cfg:4
-#: Armies_of_Amberan\factions\empire-lord.cfg:4
-msgid "Finn's Empire"
-msgstr ""
+#. [era]: id=era_amberan
+#: Armies_of_Amberan\_main.cfg:37
+msgid "Armies of Amberan"
+msgstr "Armés d’Ambéran"
 
-#. [multiplayer_side]: id=farengar_aoh, type=random
-#. [multiplayer_side]: id=farengar_def, type=random
-#. [multiplayer_side]: id=farengar_lord, type=far_roi
-#: Armies_of_Amberan\factions\farengar-aoh.cfg:4
-#: Armies_of_Amberan\factions\farengar-default.cfg:4
-#: Armies_of_Amberan\factions\farengar-lord.cfg:4
-msgid "Farengarians Kingdoms"
-msgstr ""
-
-#. [multiplayer_side]: id=farNains_def, type=random
-#: Armies_of_Amberan\factions\farNains-aoh.cfg:4
-#: Armies_of_Amberan\factions\farNains-default.cfg:4
-#: Armies_of_Amberan\factions\farNains-lord.cfg:4
-msgid "Farengarian dwarve's Counties"
-msgstr ""
-
-#. [multiplayer_side]: id=federation_aoh, type=random
-#. [multiplayer_side]: id=federation_def, type=random
-#. [multiplayer_side]: id=federation_lord, type=archimage
-#: Armies_of_Amberan\factions\federation-aoh.cfg:4
-#: Armies_of_Amberan\factions\federation-default.cfg:4
-#: Armies_of_Amberan\factions\federation-lord.cfg:4
-msgid "Mauve Islands Federation"
-msgstr ""
-
-#. [multiplayer_side]: id=galianos_aoh, type=random
-#. [multiplayer_side]: id=galianos_def, type=random
-#: Armies_of_Amberan\factions\galianos-aoh.cfg:4
-#: Armies_of_Amberan\factions\galianos-default.cfg:4
-#: Armies_of_Amberan\factions\galianos-lord.cfg:4
-msgid "Galianos Imperium"
-msgstr ""
-
-#. [multiplayer_side]: id=MorkDarf_aoh, type=random
-#. [multiplayer_side]: id=MorkDarf_def, type=random
-#: Armies_of_Amberan\factions\morkDarf-aoh.cfg:4
-#: Armies_of_Amberan\factions\morkDarf-default.cfg:4
-#: Armies_of_Amberan\factions\morkDarf-lord.cfg:4
-msgid "Dwarven Kingdoms of Morkenost and Darfenlend"
-msgstr ""
-
-#. [multiplayer_side]: id=nordian_def, type=random
-#: Armies_of_Amberan\factions\nord-aoh.cfg:4
-#: Armies_of_Amberan\factions\nord-default.cfg:4
-#: Armies_of_Amberan\factions\nord-lord.cfg:4
-msgid "Norse Jarldoms"
-msgstr ""
-
-#. [multiplayer_side]: id=rovahr_def, type=random
-#: Armies_of_Amberan\factions\rovahr-aoh.cfg:4
-#: Armies_of_Amberan\factions\rovahr-default.cfg:4
-#: Armies_of_Amberan\factions\rovahr-lord.cfg:4
-msgid "Kingdoms of Rovahr"
-msgstr ""
-
-#. [unit_type]: id=emp_apprentiEnchanteur, race=empfinn
-#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:4
-msgid "Enchanter apprentice"
-msgstr ""
-
-#. [unit_type]: id=emp_apprentiEnchanteur, race=empfinn
-#. [unit_type]: id=emp_enchanteur, race=empfinn
-#. [unit_type]: id=emp_maitreEnchanteur, race=empfinn
-#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:16
-#: Armies_of_Amberan\units\empire\Enchanteur.cfg:16
-#: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:16
-msgid "Enchantement !"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:25
-#: Armies_of_Amberan\units\empire\Arbaletrier_helgrind_lourd.cfg:26
-#: Armies_of_Amberan\units\empire\Arbaletrier_lourd.cfg:25
-#: Armies_of_Amberan\units\empire\Capitaine.cfg:27
-#: Armies_of_Amberan\units\empire\Cavalier.cfg:22
-#: Armies_of_Amberan\units\empire\Enchanteur.cfg:25
-#: Armies_of_Amberan\units\empire\Maitre_arbaletrier.cfg:26
-#: Armies_of_Amberan\units\empire\Noble.cfg:30
-#: Armies_of_Amberan\units\empire\Pistolier.cfg:23
-#: Armies_of_Amberan\units\empire\Reitre.cfg:22
-#: Armies_of_Amberan\units\empire\Sergent.cfg:27
-#: Armies_of_Amberan\units\farengar\Archer_long.cfg:28
-#: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:29
-#: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:29
-#: Armies_of_Amberan\units\farengar\Noble.cfg:31
-#: Armies_of_Amberan\units\farengar\Seigneur.cfg:36
-#: Armies_of_Amberan\units\federation\Etudiant.cfg:28
-#: Armies_of_Amberan\units\federation\Guerrier-mage.cfg:36
-#: Armies_of_Amberan\units\federation\Mage-lame.cfg:28
-#: Armies_of_Amberan\units\galianos\Arbaletrier_astraidien.cfg:31
-#: Armies_of_Amberan\units\galianos\Arbaletrier_monte.cfg:22
-#: Armies_of_Amberan\units\galianos\Cavalier.cfg:22
-#: Armies_of_Amberan\units\galianos\Eclaireur.cfg:22
-#: Armies_of_Amberan\units\galianos\Epeiste.cfg:27
-#: Armies_of_Amberan\units\galianos\Epeiste_lourd.cfg:28
-#: Armies_of_Amberan\units\galianos\Escorteur.cfg:23
-#: Armies_of_Amberan\units\galianos\Garde_forestier.cfg:32
-#: Armies_of_Amberan\units\galianos\Gendarme.cfg:27
-#: Armies_of_Amberan\units\galianos\Lancier.cfg:22
-#: Armies_of_Amberan\units\galianos\Rodeur.cfg:33
-#: Armies_of_Amberan\units\galianos\Spadassin.cfg:27
-#: Armies_of_Amberan\units\nord\Archer_nordique.cfg:28
-#: Armies_of_Amberan\units\nord\Guerrier.cfg:37
-#: Armies_of_Amberan\units\nord\Huskarl.cfg:37
-#: Armies_of_Amberan\units\nord\Maitre_archer.cfg:32
-#: Armies_of_Amberan\units\rovahr\Arbaletrier_avec_pavois.cfg:38
-#: Armies_of_Amberan\units\rovahr\Archer_royal.cfg:30
-#: Armies_of_Amberan\units\rovahr\Mercenaire.cfg:33
-msgid "sword"
-msgstr ""
-
-#. [female]
-#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:37
-msgid "female^Enchanter apprentice"
-msgstr ""
-
-#. [unit_type]: id=emp_arbaletrier, race=empfinn
-#. [unit_type]: id=far_arbaletrier, race=farengar
-#. [unit_type]: id=fna_arbaletrier, race=farNain
-#. [unit_type]: id=nor_arbaletrier, race=nordian
-#: Armies_of_Amberan\units\empire\Arbaletrier.cfg:4
-#: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:4
-#: Armies_of_Amberan\units\far_nains\Arbaletrier.cfg:4
-#: Armies_of_Amberan\units\nord\Arbaletrier.cfg:4
-msgid "Crossbowman"
-msgstr ""
-
+#. [era]: id=era_amberan
+#. [era]: id=hero_amberan
+#. [era]: id=lord_amberan
 #. [unit_type]: id=emp_arbaletrier, race=empfinn
 #. [unit_type]: id=emp_arquebusier, race=empfinn
 #. [unit_type]: id=emp_canon_lourd, race=mechanical
@@ -166,11 +42,33 @@ msgstr ""
 #. [unit_type]: id=emp_seigneur, race=empfinn
 #. [unit_type]: id=emp_soldat_hel, race=empfinn
 #. [unit_type]: id=emp_soldat_lourd, race=empfinn
+#. [unit_type]: id=fna_arbaletrier, race=farNain
+#. [unit_type]: id=fna_archimageDesRunes, race=farNain
+#. [unit_type]: id=fna_arquebusier, race=farNain
+#. [unit_type]: id=fna_artificier, race=farNain
+#. [unit_type]: id=fna_champion, race=farNain
+#. [unit_type]: id=fna_chevalierGriffon, race=farNain
+#. [unit_type]: id=fna_chevalierOurs, race=farNain
+#. [unit_type]: id=fna_chevaucheurDeGriffon, race=farNain
+#. [unit_type]: id=fna_comte, race=farNain
+#. [unit_type]: id=fna_cranequinier, race=farNain
+#. [unit_type]: id=fna_gardeDArgent, race=farNain
+#. [unit_type]: id=fna_garde, race=farNain
+#. [unit_type]: id=fna_grandchevalierGriffon, race=farNain
+#. [unit_type]: id=fna_GrandchevalierOurs, race=farNain
+#. [unit_type]: id=fna_guerrier, race=farNain
+#. [unit_type]: id=fna_ingenieur, race=farNain
+#. [unit_type]: id=fna_mageDesRunes, race=farNain
+#. [unit_type]: id=fna_maitreIngenieur, race=farNain
+#. [unit_type]: id=fna_seigneur, race=farNain
+#. [unit_type]: id=fna_sentinelle, race=farNain
+#. [unit_type]: id=fna_thane, race=farNain
 #. [unit_type]: id=far_apprenti, race=farengar
 #. [unit_type]: id=far_arbaletrier, race=farengar
 #. [unit_type]: id=far_arcaniste, race=farengar
 #. [unit_type]: id=far_archer, race=farengar
 #. [unit_type]: id=far_archerLong, race=farengar
+#. [unit_type]: id=far_arquebusier, race=farengar
 #. [unit_type]: id=far_champion, race=farengar
 #. [unit_type]: id=far_chevalier, race=farengar
 #. [unit_type]: id=far_clerc, race=farengar
@@ -193,27 +91,6 @@ msgstr ""
 #. [unit_type]: id=far_roi, race=farengar
 #. [unit_type]: id=far_seigneur, race=farengar
 #. [unit_type]: id=far_sergent, race=farengar
-#. [unit_type]: id=fna_arbaletrier, race=farNain
-#. [unit_type]: id=fna_archimageDesRunes, race=farNain
-#. [unit_type]: id=fna_arquebusier, race=farNain
-#. [unit_type]: id=fna_artificier, race=farNain
-#. [unit_type]: id=fna_champion, race=farNain
-#. [unit_type]: id=fna_chevalierGriffon, race=farNain
-#. [unit_type]: id=fna_chevalierOurs, race=farNain
-#. [unit_type]: id=fna_chevaucheurDeGriffon, race=farNain
-#. [unit_type]: id=fna_comte, race=farNain
-#. [unit_type]: id=fna_cranequinier, race=farNain
-#. [unit_type]: id=fna_gardeDArgent, race=farNain
-#. [unit_type]: id=fna_garde, race=farNain
-#. [unit_type]: id=fna_grandchevalierGriffon, race=farNain
-#. [unit_type]: id=fna_GrandchevalierOurs, race=farNain
-#. [unit_type]: id=fna_guerrier, race=farNain
-#. [unit_type]: id=fna_ingenieur, race=farNain
-#. [unit_type]: id=fna_mageDesRunes, race=farNain
-#. [unit_type]: id=fna_maitreIngenieur, race=farNain
-#. [unit_type]: id=fna_seigneur, race=farNain
-#. [unit_type]: id=fna_sentinelle, race=farNain
-#. [unit_type]: id=fna_thane, race=farNain
 #. [unit_type]: id=fed_ancienDruide, race=mauvilien
 #. [unit_type]: id=fed_apprentiSorcegarde, race=mauvilien
 #. [unit_type]: id=fed_arcaniste, race=mauvilien
@@ -276,6 +153,20 @@ msgstr ""
 #. [unit_type]: id=gal_pyromancien, race=galien
 #. [unit_type]: id=gal_rodeur, race=galien
 #. [unit_type]: id=gal_spadassin, race=galien
+#. [unit_type]: id=gob_archerLoup, race=gobmon
+#. [unit_type]: id=gob_archer, race=gobmon
+#. [unit_type]: id=gob_assassin, race=gobmon
+#. [unit_type]: id=gob_chamane, race=gobmon
+#. [unit_type]: id=gob_championLoup, race=gobmon
+#. [unit_type]: id=gob_chasseur, race=gobmon
+#. [unit_type]: id=gob_chefDeClan, race=gobmon
+#. [unit_type]: id=gob_fantassin, race=gobmon
+#. [unit_type]: id=gob_gobelinMedecine, race=gobmon
+#. [unit_type]: id=gob_guerrier, race=gobmon
+#. [unit_type]: id=gob_meneur, race=gobmon
+#. [unit_type]: id=gob_monteurDeLoup, race=gobmon
+#. [unit_type]: id=gob_seigneurDeGuerre, race=gobmon
+#. [unit_type]: id=gob_sournois, race=gobmon
 #. [unit_type]: id=mord_archerSurGriffon, race=darfen
 #. [unit_type]: id=mord_arquebusierVeteran, race=morken
 #. [unit_type]: id=mord_arquebusier, race=morken
@@ -329,6 +220,32 @@ msgstr ""
 #. [unit_type]: id=nor_thane, race=nordian
 #. [unit_type]: id=nor_varegue, race=nordian
 #. [unit_type]: id=nor_villageois, race=nordian
+#. [unit_type]: id=rel_archerDeGuerre, race=rovElfe
+#. [unit_type]: id=rel_archer, race=rovElfe
+#. [unit_type]: id=rel_archidruide, race=rovElfe
+#. [unit_type]: id=rel_cavalier, race=rovElfe
+#. [unit_type]: id=rel_championForestier, race=rovElfe
+#. [unit_type]: id=rel_chevalierForestier, race=rovElfe
+#. [unit_type]: id=rel_danseGuerre, race=rovElfe
+#. [unit_type]: id=rel_danseLame, race=rovElfe
+#. [unit_type]: id=rel_druide, race=rovElfe
+#. [unit_type]: id=rel_eclaireur, race=rovElfe
+#. [unit_type]: id=rel_epeiste, race=rovElfe
+#. [unit_type]: id=rel_gardeRoyal, race=rovElfe
+#. [unit_type]: id=rel_hautSeigneur, race=rovElfe
+#. [unit_type]: id=rel_heraut, race=rovElfe
+#. [unit_type]: id=rel_lancier, race=rovElfe
+#. [unit_type]: id=rel_mage, race=rovElfe
+#. [unit_type]: id=rel_magister, race=rovElfe
+#. [unit_type]: id=rel_maitreArcher, race=rovElfe
+#. [unit_type]: id=rel_maitreEpeiste, race=rovElfe
+#. [unit_type]: id=rel_noble, race=rovElfe
+#. [unit_type]: id=rel_patrouilleurForestier, race=rovElfe
+#. [unit_type]: id=rel_ranger, race=rovElfe
+#. [unit_type]: id=rel_rempart, race=rovElfe
+#. [unit_type]: id=rel_seigneur, race=rovElfe
+#. [unit_type]: id=rel_soigneur, race=rovElfe
+#. [unit_type]: id=rel_avenger, race=rovElfe
 #. [unit_type]: id=rov_arbaletrierAvecPavois, race=rovahrien
 #. [unit_type]: id=rov_arbaletrierLourd, race=rovahrien
 #. [unit_type]: id=rov_arbaletrierPaysan, race=rovahrien
@@ -351,7 +268,6 @@ msgstr ""
 #. [unit_type]: id=rov_inquisiteur, race=rovahrien
 #. [unit_type]: id=rov_jeuneChevalier, race=rovahrien
 #. [unit_type]: id=rov_konig, race=rovahrien
-#. [unit_type]: id=rov_leveeFeodale, race=rovahrien
 #. [unit_type]: id=rov_mage, race=rovahrien
 #. [unit_type]: id=rov_mercenaire, race=rovahrien
 #. [unit_type]: id=rov_moineSoldat, race=rovahrien
@@ -362,9 +278,10 @@ msgstr ""
 #. [unit_type]: id=rov_sergent, race=rovahrien
 #. [unit_type]: id=rov_templier, race=rovahrien
 #. [unit_type]: id=rov_templierCapitaine, race=rovahrien
-#. [era]: id=era_amberan
-#. [era]: id=hero_amberan
-#. [era]: id=lord_amberan
+#. [unit_type]: id=rov_leveeFeodale, race=rovahrien
+#: Armies_of_Amberan\_main.cfg:38
+#: Armies_of_Amberan\_main.cfg:57
+#: Armies_of_Amberan\_main.cfg:77
 #: Armies_of_Amberan\units\empire\Arbaletrier.cfg:16
 #: Armies_of_Amberan\units\empire\Arquebusier.cfg:16
 #: Armies_of_Amberan\units\empire\Canon_lourd.cfg:16
@@ -385,11 +302,33 @@ msgstr ""
 #: Armies_of_Amberan\units\empire\Seigneur.cfg:16
 #: Armies_of_Amberan\units\empire\Soldat_helgrind.cfg:16
 #: Armies_of_Amberan\units\empire\Soldat_helgrind_lourd.cfg:16
+#: Armies_of_Amberan\units\far_nains\Arbaletrier.cfg:16
+#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:17
+#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:16
+#: Armies_of_Amberan\units\far_nains\Artificier.cfg:16
+#: Armies_of_Amberan\units\far_nains\Champion.cfg:16
+#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:16
+#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:16
+#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:16
+#: Armies_of_Amberan\units\far_nains\Comte.cfg:16
+#: Armies_of_Amberan\units\far_nains\Cranequinier.cfg:16
+#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:16
+#: Armies_of_Amberan\units\far_nains\Garde.cfg:16
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:16
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:16
+#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:16
+#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:16
+#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:17
+#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:16
+#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:16
+#: Armies_of_Amberan\units\far_nains\Sentinelle.cfg:16
+#: Armies_of_Amberan\units\far_nains\Thane.cfg:16
 #: Armies_of_Amberan\units\farengar\Apprenti.cfg:16
 #: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:16
 #: Armies_of_Amberan\units\farengar\Arcaniste.cfg:16
 #: Armies_of_Amberan\units\farengar\Archer.cfg:16
 #: Armies_of_Amberan\units\farengar\Archer_long.cfg:16
+#: Armies_of_Amberan\units\farengar\Arquebusier.cfg:16
 #: Armies_of_Amberan\units\farengar\Champion.cfg:16
 #: Armies_of_Amberan\units\farengar\Chevalier.cfg:16
 #: Armies_of_Amberan\units\farengar\Clerc.cfg:16
@@ -412,27 +351,6 @@ msgstr ""
 #: Armies_of_Amberan\units\farengar\Roi.cfg:16
 #: Armies_of_Amberan\units\farengar\Seigneur.cfg:16
 #: Armies_of_Amberan\units\farengar\Sergent.cfg:16
-#: Armies_of_Amberan\units\far_nains\Arbaletrier.cfg:16
-#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:17
-#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:16
-#: Armies_of_Amberan\units\far_nains\Artificier.cfg:16
-#: Armies_of_Amberan\units\far_nains\Champion.cfg:16
-#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:16
-#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:16
-#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:16
-#: Armies_of_Amberan\units\far_nains\Comte.cfg:16
-#: Armies_of_Amberan\units\far_nains\Cranequinier.cfg:16
-#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:16
-#: Armies_of_Amberan\units\far_nains\Garde.cfg:16
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:16
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:16
-#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:16
-#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:16
-#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:17
-#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:16
-#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:16
-#: Armies_of_Amberan\units\far_nains\Sentinelle.cfg:16
-#: Armies_of_Amberan\units\far_nains\Thane.cfg:16
 #: Armies_of_Amberan\units\federation\Ancien_druide.cfg:16
 #: Armies_of_Amberan\units\federation\Apprenti_sorcegarde.cfg:16
 #: Armies_of_Amberan\units\federation\Arcaniste.cfg:16
@@ -495,6 +413,20 @@ msgstr ""
 #: Armies_of_Amberan\units\galianos\Pyromancien.cfg:16
 #: Armies_of_Amberan\units\galianos\Rodeur.cfg:16
 #: Armies_of_Amberan\units\galianos\Spadassin.cfg:16
+#: Armies_of_Amberan\units\gobmon\archer-loup.cfg:16
+#: Armies_of_Amberan\units\gobmon\archer.cfg:16
+#: Armies_of_Amberan\units\gobmon\assassin.cfg:16
+#: Armies_of_Amberan\units\gobmon\chamane.cfg:16
+#: Armies_of_Amberan\units\gobmon\champion-loup.cfg:16
+#: Armies_of_Amberan\units\gobmon\chasseur.cfg:16
+#: Armies_of_Amberan\units\gobmon\chef-de-clan.cfg:16
+#: Armies_of_Amberan\units\gobmon\fantassin.cfg:16
+#: Armies_of_Amberan\units\gobmon\gobelin-medecine.cfg:16
+#: Armies_of_Amberan\units\gobmon\guerrier.cfg:16
+#: Armies_of_Amberan\units\gobmon\meneur.cfg:16
+#: Armies_of_Amberan\units\gobmon\monteur-de-loup.cfg:16
+#: Armies_of_Amberan\units\gobmon\seigneur-de-guerre.cfg:16
+#: Armies_of_Amberan\units\gobmon\sournois.cfg:16
 #: Armies_of_Amberan\units\mork-darf\Archer-sur-griffon.cfg:16
 #: Armies_of_Amberan\units\mork-darf\Arquebusier-veteran.cfg:16
 #: Armies_of_Amberan\units\mork-darf\Arquebusier.cfg:16
@@ -548,6 +480,32 @@ msgstr ""
 #: Armies_of_Amberan\units\nord\Thane.cfg:16
 #: Armies_of_Amberan\units\nord\Varegue.cfg:16
 #: Armies_of_Amberan\units\nord\Villageois.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Archer-de-guerre.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Archer.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Archidruide.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Cavalier.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Champion-forestier.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Chevalier-forestier.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Danse-guerre.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Danse-lame.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Druide.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Eclaireur.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Epeiste.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Garde-royal.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Haut-Seigneur.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Heraut.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Lancier.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Mage.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Magistere.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Maitre-archer.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Maitre-epeiste.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Noble.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Patrouilleur-forestier.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Ranger.cfg:16
+#: Armies_of_Amberan\units\rov_elf\Rempart.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Seigneur.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Soigneur.cfg:17
+#: Armies_of_Amberan\units\rov_elf\Vengeur.cfg:16
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_avec_pavois.cfg:16
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_lourd.cfg:16
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_paysan.cfg:16
@@ -570,7 +528,6 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Inquisiteur.cfg:16
 #: Armies_of_Amberan\units\rovahr\Jeune_chevalier.cfg:16
 #: Armies_of_Amberan\units\rovahr\Konig.cfg:16
-#: Armies_of_Amberan\units\rovahr\levee_feodale.cfg:16
 #: Armies_of_Amberan\units\rovahr\Mage.cfg:16
 #: Armies_of_Amberan\units\rovahr\Mercenaire.cfg:16
 #: Armies_of_Amberan\units\rovahr\Moine-soldat.cfg:16
@@ -581,17 +538,189 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Sergent.cfg:16
 #: Armies_of_Amberan\units\rovahr\Templier.cfg:16
 #: Armies_of_Amberan\units\rovahr\Templier_capitaine.cfg:16
-#: Armies_of_Amberan\_main.cfg:36
-#: Armies_of_Amberan\_main.cfg:55
-#: Armies_of_Amberan\_main.cfg:75
+#: Armies_of_Amberan\units\rovahr\levee_feodale.cfg:16
 msgid "description to come"
-msgstr ""
+msgstr "\t"
+
+#. [era]: id=hero_amberan
+#: Armies_of_Amberan\_main.cfg:56
+msgid "Heroes of Amberan"
+msgstr "Héros d’Ambéran"
+
+#. [era]: id=lord_amberan
+#: Armies_of_Amberan\_main.cfg:76
+msgid "Lords of Amberan"
+msgstr "Seigneurs d’Ambéran"
+
+#. [multiplayer_side]: id=empfinn_aoh, type=random
+#. [multiplayer_side]: id=empfinn_def, type=random
+#. [multiplayer_side]: id=empfinn_lord, type=emp_empereur
+#: Armies_of_Amberan\factions\empire-aoh.cfg:4
+#: Armies_of_Amberan\factions\empire-default.cfg:4
+#: Armies_of_Amberan\factions\empire-lord.cfg:4
+msgid "Finn's Empire"
+msgstr "Empire de Finn"
+
+#. [multiplayer_side]: id=farNains_def, type=random
+#: Armies_of_Amberan\factions\farNains-aoh.cfg:4
+#: Armies_of_Amberan\factions\farNains-default.cfg:4
+#: Armies_of_Amberan\factions\farNains-lord.cfg:4
+msgid "Farengarian dwarve's Counties"
+msgstr "Comtés nains de Farengar"
+
+#. [multiplayer_side]: id=farengar_aoh, type=random
+#. [multiplayer_side]: id=farengar_def, type=random
+#. [multiplayer_side]: id=farengar_lord, type=far_roi
+#: Armies_of_Amberan\factions\farengar-aoh.cfg:4
+#: Armies_of_Amberan\factions\farengar-default.cfg:4
+#: Armies_of_Amberan\factions\farengar-lord.cfg:4
+msgid "Farengarians Kingdoms"
+msgstr "Royaumes de Farengar"
+
+#. [multiplayer_side]: id=federation_aoh, type=random
+#. [multiplayer_side]: id=federation_def, type=random
+#. [multiplayer_side]: id=federation_lord, type=archimage
+#: Armies_of_Amberan\factions\federation-aoh.cfg:4
+#: Armies_of_Amberan\factions\federation-default.cfg:4
+#: Armies_of_Amberan\factions\federation-lord.cfg:4
+msgid "Mauve Islands Federation"
+msgstr "Fédération des Îles Mauves"
+
+#. [multiplayer_side]: id=galianos_aoh, type=random
+#. [multiplayer_side]: id=galianos_def, type=random
+#: Armies_of_Amberan\factions\galianos-aoh.cfg:4
+#: Armies_of_Amberan\factions\galianos-default.cfg:4
+#: Armies_of_Amberan\factions\galianos-lord.cfg:4
+msgid "Galianos Imperium"
+msgstr "Impérium de Galianos"
+
+#. [multiplayer_side]: id=gobmon_def, type=random
+#: Armies_of_Amberan\factions\gobmon-aoh.cfg:4
+#: Armies_of_Amberan\factions\gobmon-default.cfg:4
+#: Armies_of_Amberan\factions\gobmon-lord.cfg:4
+msgid "Mountain Goblins"
+msgstr "Gobelins des montagnes"
+
+#. [multiplayer_side]: id=MorkDarf_aoh, type=random
+#. [multiplayer_side]: id=MorkDarf_def, type=random
+#: Armies_of_Amberan\factions\morkDarf-aoh.cfg:4
+#: Armies_of_Amberan\factions\morkDarf-default.cfg:4
+#: Armies_of_Amberan\factions\morkDarf-lord.cfg:4
+msgid "Dwarven Kingdoms of Morkenost and Darfenlend"
+msgstr "Royaumes nains de Morkenost et Darfenlend"
+
+#. [multiplayer_side]: id=nordian_def, type=random
+#: Armies_of_Amberan\factions\nord-aoh.cfg:4
+#: Armies_of_Amberan\factions\nord-default.cfg:4
+#: Armies_of_Amberan\factions\nord-lord.cfg:4
+msgid "Norse Jarldoms"
+msgstr "Jarlirs Nordiques"
+
+#. [multiplayer_side]: id=rovahr_def, type=random
+#: Armies_of_Amberan\factions\rovahr-aoh.cfg:4
+#: Armies_of_Amberan\factions\rovahr-default.cfg:4
+#: Armies_of_Amberan\factions\rovahr-lord.cfg:4
+msgid "Kingdoms of Rovahr"
+msgstr "Royaumes du Rovahr"
+
+#. [multiplayer_side]: id=rovhElfe_def, type=random
+#: Armies_of_Amberan\factions\rovhElfe-aoh.cfg:4
+#: Armies_of_Amberan\factions\rovhElfe-default.cfg:4
+#: Armies_of_Amberan\factions\rovhElfe-lord.cfg:4
+msgid "Rovahrian elves"
+msgstr "Elfes du Rovahr"
+
+#. [unit_type]: id=emp_apprentiEnchanteur, race=empfinn
+#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:4
+msgid "Enchanter apprentice"
+msgstr "Apprentit enchanteur"
+
+#. [unit_type]: id=emp_apprentiEnchanteur, race=empfinn
+#. [unit_type]: id=emp_enchanteur, race=empfinn
+#. [unit_type]: id=emp_maitreEnchanteur, race=empfinn
+#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:16
+#: Armies_of_Amberan\units\empire\Enchanteur.cfg:16
+#: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:16
+msgid "Enchantement !"
+msgstr "Enchantement !"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:25
+#: Armies_of_Amberan\units\empire\Arbaletrier_helgrind_lourd.cfg:26
+#: Armies_of_Amberan\units\empire\Arbaletrier_lourd.cfg:25
+#: Armies_of_Amberan\units\empire\Capitaine.cfg:26
+#: Armies_of_Amberan\units\empire\Cavalier.cfg:26
+#: Armies_of_Amberan\units\empire\Enchanteur.cfg:25
+#: Armies_of_Amberan\units\empire\Maitre_arbaletrier.cfg:26
+#: Armies_of_Amberan\units\empire\Noble.cfg:30
+#: Armies_of_Amberan\units\empire\Pistolier.cfg:23
+#: Armies_of_Amberan\units\empire\Reitre.cfg:22
+#: Armies_of_Amberan\units\empire\Sergent.cfg:26
+#: Armies_of_Amberan\units\farengar\Archer_long.cfg:28
+#: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:29
+#: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:29
+#: Armies_of_Amberan\units\farengar\Noble.cfg:31
+#: Armies_of_Amberan\units\farengar\Seigneur.cfg:36
+#: Armies_of_Amberan\units\federation\Etudiant.cfg:28
+#: Armies_of_Amberan\units\federation\Guerrier-mage.cfg:36
+#: Armies_of_Amberan\units\federation\Mage-lame.cfg:28
+#: Armies_of_Amberan\units\galianos\Arbaletrier_astraidien.cfg:31
+#: Armies_of_Amberan\units\galianos\Arbaletrier_monte.cfg:22
+#: Armies_of_Amberan\units\galianos\Cavalier.cfg:22
+#: Armies_of_Amberan\units\galianos\Eclaireur.cfg:22
+#: Armies_of_Amberan\units\galianos\Epeiste.cfg:27
+#: Armies_of_Amberan\units\galianos\Epeiste_lourd.cfg:28
+#: Armies_of_Amberan\units\galianos\Escorteur.cfg:23
+#: Armies_of_Amberan\units\galianos\Garde_forestier.cfg:32
+#: Armies_of_Amberan\units\galianos\Gendarme.cfg:27
+#: Armies_of_Amberan\units\galianos\Lancier.cfg:22
+#: Armies_of_Amberan\units\galianos\Rodeur.cfg:33
+#: Armies_of_Amberan\units\galianos\Spadassin.cfg:27
+#: Armies_of_Amberan\units\nord\Archer_nordique.cfg:28
+#: Armies_of_Amberan\units\nord\Guerrier.cfg:37
+#: Armies_of_Amberan\units\nord\Huskarl.cfg:37
+#: Armies_of_Amberan\units\nord\Maitre_archer.cfg:32
+#: Armies_of_Amberan\units\rov_elf\Archer-de-guerre.cfg:23
+#: Armies_of_Amberan\units\rov_elf\Archer.cfg:26
+#: Armies_of_Amberan\units\rov_elf\Cavalier.cfg:31
+#: Armies_of_Amberan\units\rov_elf\Eclaireur.cfg:31
+#: Armies_of_Amberan\units\rov_elf\Epeiste.cfg:27
+#: Armies_of_Amberan\units\rov_elf\Haut-Seigneur.cfg:28
+#: Armies_of_Amberan\units\rov_elf\Heraut.cfg:31
+#: Armies_of_Amberan\units\rov_elf\Maitre-archer.cfg:24
+#: Armies_of_Amberan\units\rov_elf\Maitre-epeiste.cfg:28
+#: Armies_of_Amberan\units\rov_elf\Noble.cfg:24
+#: Armies_of_Amberan\units\rov_elf\Ranger.cfg:35
+#: Armies_of_Amberan\units\rov_elf\Seigneur.cfg:27
+#: Armies_of_Amberan\units\rov_elf\Vengeur.cfg:36
+#: Armies_of_Amberan\units\rovahr\Arbaletrier_avec_pavois.cfg:38
+#: Armies_of_Amberan\units\rovahr\Archer_royal.cfg:30
+#: Armies_of_Amberan\units\rovahr\Mercenaire.cfg:33
+msgid "sword"
+msgstr "épée"
+
+#. [female]
+#: Armies_of_Amberan\units\empire\Apprenti_enchanteur.cfg:37
+msgid "female^Enchanter apprentice"
+msgstr "Apprentie enchnateresse"
+
+#. [unit_type]: id=emp_arbaletrier, race=empfinn
+#. [unit_type]: id=fna_arbaletrier, race=farNain
+#. [unit_type]: id=far_arbaletrier, race=farengar
+#. [unit_type]: id=nor_arbaletrier, race=nordian
+#: Armies_of_Amberan\units\empire\Arbaletrier.cfg:4
+#: Armies_of_Amberan\units\far_nains\Arbaletrier.cfg:4
+#: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:4
+#: Armies_of_Amberan\units\nord\Arbaletrier.cfg:4
+msgid "Crossbowman"
+msgstr "Arbalétrier"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\empire\Arbaletrier.cfg:25
 #: Armies_of_Amberan\units\empire\Arbaletrier_helgrind.cfg:25
 #: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:28
 #: Armies_of_Amberan\units\farengar\Archer.cfg:28
+#: Armies_of_Amberan\units\farengar\Arquebusier.cfg:29
 #: Armies_of_Amberan\units\galianos\Arbaletrier_avec_pavois.cfg:30
 #: Armies_of_Amberan\units\galianos\Garde_civil.cfg:22
 #: Armies_of_Amberan\units\nord\Arbaletrier.cfg:34
@@ -599,17 +728,17 @@ msgstr ""
 #: Armies_of_Amberan\units\nord\Maitre_arbaletrier.cfg:35
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_lourd.cfg:34
 msgid "short sword"
-msgstr ""
+msgstr "épée courte"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Arbaletrier.cfg:34
 #: Armies_of_Amberan\units\empire\Arbaletrier_helgrind.cfg:34
 #: Armies_of_Amberan\units\empire\Arbaletrier_lourd.cfg:34
 #: Armies_of_Amberan\units\empire\Maitre_arbaletrier.cfg:35
-#: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:37
-#: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:38
 #: Armies_of_Amberan\units\far_nains\Arbaletrier.cfg:31
 #: Armies_of_Amberan\units\far_nains\Sentinelle.cfg:31
+#: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:37
+#: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:38
 #: Armies_of_Amberan\units\galianos\Arbaletrier_astraidien.cfg:40
 #: Armies_of_Amberan\units\galianos\Arbaletrier_avec_pavois.cfg:39
 #: Armies_of_Amberan\units\galianos\Arbaletrier_monte.cfg:31
@@ -623,12 +752,12 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_lourd.cfg:43
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_paysan.cfg:38
 msgid "crossbow"
-msgstr ""
+msgstr "arbalète"
 
 #. [unit_type]: id=emp_arbaletrier_hel, race=empfinn
 #: Armies_of_Amberan\units\empire\Arbaletrier_helgrind.cfg:4
 msgid "Helgrindian crossbowman"
-msgstr ""
+msgstr "Arbalétrier helgrindois"
 
 #. [unit_type]: id=emp_arbaletrier_hel, race=empfinn
 #. [unit_type]: id=emp_arbaletrier_hel_lourd, race=empfinn
@@ -641,15 +770,6 @@ msgstr ""
 #. [unit_type]: id=emp_piquier, race=empfinn
 #. [unit_type]: id=emp_sergent, race=empfinn
 #. [unit_type]: id=emp_tireur, race=empfinn
-#. [unit_type]: id=far_archimageDeBataille, race=farengar
-#. [unit_type]: id=far_chevalierAPieds, race=farengar
-#. [unit_type]: id=far_chevalierErrant, race=farengar
-#. [unit_type]: id=far_ecuyer, race=farengar
-#. [unit_type]: id=far_grandMaitrePaladin, race=farengar
-#. [unit_type]: id=far_heraut, race=farengar
-#. [unit_type]: id=far_maitreArcher, race=farengar
-#. [unit_type]: id=far_maitrePaladin, race=farengar
-#. [unit_type]: id=far_paysan, race=farengar
 #. [unit_type]: id=fna_balisteDeSiege, race=mechanical
 #. [unit_type]: id=fna_baliste, race=mechanical
 #. [unit_type]: id=fna_bombarde, race=mechanical
@@ -659,6 +779,15 @@ msgstr ""
 #. [unit_type]: id=fna_guerrierLourd, race=farNain
 #. [unit_type]: id=fna_oursier, race=farNain
 #. [unit_type]: id=fna_scribeRunique, race=farNain
+#. [unit_type]: id=far_archimageDeBataille, race=farengar
+#. [unit_type]: id=far_chevalierAPieds, race=farengar
+#. [unit_type]: id=far_chevalierErrant, race=farengar
+#. [unit_type]: id=far_ecuyer, race=farengar
+#. [unit_type]: id=far_grandMaitrePaladin, race=farengar
+#. [unit_type]: id=far_heraut, race=farengar
+#. [unit_type]: id=far_maitreArcher, race=farengar
+#. [unit_type]: id=far_maitrePaladin, race=farengar
+#. [unit_type]: id=far_paysan, race=farengar
 #. [unit_type]: id=fed_jeuneDruide, race=mauvilien
 #. [unit_type]: id=fed_sorcegarde, race=mauvilien
 #. [unit_type]: id=gal_arbaletrierAvecPavois, race=galien
@@ -674,15 +803,6 @@ msgstr ""
 #: Armies_of_Amberan\units\empire\Piquier.cfg:16
 #: Armies_of_Amberan\units\empire\Sergent.cfg:16
 #: Armies_of_Amberan\units\empire\Tireur_d'elite.cfg:16
-#: Armies_of_Amberan\units\farengar\Archimage_de_bataille.cfg:16
-#: Armies_of_Amberan\units\farengar\Chevalier_a_pieds.cfg:16
-#: Armies_of_Amberan\units\farengar\Chevalier_errant.cfg:16
-#: Armies_of_Amberan\units\farengar\Ecuyer.cfg:16
-#: Armies_of_Amberan\units\farengar\Grand_maitre_paladin.cfg:17
-#: Armies_of_Amberan\units\farengar\Heraut.cfg:16
-#: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:16
-#: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:16
-#: Armies_of_Amberan\units\farengar\Paysan.cfg:16
 #: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:16
 #: Armies_of_Amberan\units\far_nains\Baliste.cfg:16
 #: Armies_of_Amberan\units\far_nains\Bombarde.cfg:16
@@ -692,6 +812,15 @@ msgstr ""
 #: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:16
 #: Armies_of_Amberan\units\far_nains\Oursier.cfg:16
 #: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:16
+#: Armies_of_Amberan\units\farengar\Archimage_de_bataille.cfg:16
+#: Armies_of_Amberan\units\farengar\Chevalier_a_pieds.cfg:16
+#: Armies_of_Amberan\units\farengar\Chevalier_errant.cfg:16
+#: Armies_of_Amberan\units\farengar\Ecuyer.cfg:16
+#: Armies_of_Amberan\units\farengar\Grand_maitre_paladin.cfg:17
+#: Armies_of_Amberan\units\farengar\Heraut.cfg:16
+#: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:16
+#: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:16
+#: Armies_of_Amberan\units\farengar\Paysan.cfg:16
 #: Armies_of_Amberan\units\federation\Jeune_druide.cfg:16
 #: Armies_of_Amberan\units\federation\Sorcegarde.cfg:16
 #: Armies_of_Amberan\units\galianos\Arbaletrier_avec_pavois.cfg:16
@@ -702,29 +831,31 @@ msgstr ""
 #. [unit_type]: id=emp_arbaletrier_hel_lourd, race=empfinn
 #: Armies_of_Amberan\units\empire\Arbaletrier_helgrind_lourd.cfg:4
 msgid "Helgrindian heavy crossbowman"
-msgstr ""
+msgstr "Arbalétrier helgrindois lourd"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Arbaletrier_helgrind_lourd.cfg:35
 #: Armies_of_Amberan\units\far_nains\Cranequinier.cfg:32
 msgid "arbalest"
-msgstr ""
+msgstr "crannequin"
 
 #. [unit_type]: id=emp_arbaletrier_lourd, race=empfinn
 #. [unit_type]: id=nor_arbaletrierLourd, race=nordian
 #: Armies_of_Amberan\units\empire\Arbaletrier_lourd.cfg:4
 #: Armies_of_Amberan\units\nord\Arbaletrier_lourd.cfg:4
 msgid "Heavy crossbowman"
-msgstr ""
+msgstr "Arbalétrier lourd"
 
 #. [unit_type]: id=emp_arquebusier, race=empfinn
 #. [unit_type]: id=fna_arquebusier, race=farNain
+#. [unit_type]: id=far_arquebusier, race=farengar
 #. [unit_type]: id=mord_arquebusier, race=morken
 #: Armies_of_Amberan\units\empire\Arquebusier.cfg:4
 #: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:4
+#: Armies_of_Amberan\units\farengar\Arquebusier.cfg:4
 #: Armies_of_Amberan\units\mork-darf\Arquebusier.cfg:4
 msgid "Handgunner"
-msgstr ""
+msgstr "Arquebusier"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\empire\Arquebusier.cfg:25
@@ -740,64 +871,62 @@ msgstr ""
 #: Armies_of_Amberan\units\galianos\Citoyen.cfg:22
 #: Armies_of_Amberan\units\galianos\Maitre_pyromancien.cfg:32
 #: Armies_of_Amberan\units\galianos\Pyromancien.cfg:31
+#: Armies_of_Amberan\units\gobmon\assassin.cfg:26
+#: Armies_of_Amberan\units\gobmon\sournois.cfg:25
 #: Armies_of_Amberan\units\mork-darf\Arquebusier-veteran.cfg:22
 #: Armies_of_Amberan\units\mork-darf\Arquebusier.cfg:22
 #: Armies_of_Amberan\units\mork-darf\Mousquetaire.cfg:23
 #: Armies_of_Amberan\units\nord\Chasseur.cfg:31
 msgid "dagger"
-msgstr ""
+msgstr "dague"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Arquebusier.cfg:34
-#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:34
-#: Armies_of_Amberan\units\far_nains\Artificier.cfg:35
-#: Armies_of_Amberan\units\mork-darf\Arquebusier-veteran.cfg:31
-#: Armies_of_Amberan\units\mork-darf\Arquebusier.cfg:31
-msgid "handgun"
-msgstr ""
+#: Armies_of_Amberan\units\farengar\Arquebusier.cfg:38
+msgid "matchlock arquebus"
+msgstr "arquebuse à mèche"
 
 #. [unit_type]: id=emp_bretteur, race=empfinn
 #: Armies_of_Amberan\units\empire\Bretteur.cfg:4
 msgid "Fencer"
-msgstr ""
+msgstr "Bretteur"
 
 #. [unit_type]: id=emp_bretteur, race=empfinn
 #: Armies_of_Amberan\units\empire\Bretteur.cfg:16
 msgid "description to come (ex stats = pv = 28)"
-msgstr ""
+msgstr "description à venir"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\empire\Bretteur.cfg:28
 #: Armies_of_Amberan\units\empire\Dueliste.cfg:28
 #: Armies_of_Amberan\units\empire\Maitre_d_armes.cfg:29
 msgid "rapier"
-msgstr ""
+msgstr "rapière"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Bretteur.cfg:37
-#: Armies_of_Amberan\units\empire\Capitaine.cfg:36
-#: Armies_of_Amberan\units\empire\Commandant.cfg:41
+#: Armies_of_Amberan\units\empire\Capitaine.cfg:35
+#: Armies_of_Amberan\units\empire\Commandant.cfg:40
 #: Armies_of_Amberan\units\empire\Dueliste.cfg:40
-#: Armies_of_Amberan\units\empire\General.cfg:42
+#: Armies_of_Amberan\units\empire\General.cfg:41
 #: Armies_of_Amberan\units\empire\Maitre_d_armes.cfg:41
 #: Armies_of_Amberan\units\empire\Reitre.cfg:31
-#: Armies_of_Amberan\units\empire\Sergent.cfg:36
+#: Armies_of_Amberan\units\empire\Sergent.cfg:35
 #: Armies_of_Amberan\units\mork-darf\Capitaine.cfg:41
 #: Armies_of_Amberan\units\mork-darf\Commandant.cfg:42
 #: Armies_of_Amberan\units\mork-darf\Sergent.cfg:41
-#: Armies_of_Amberan\units\rovahr\Grand_inquisiteur.cfg:48
-msgid "flintlock pistol"
-msgstr ""
+msgid "wheellock pistol"
+msgstr "pistolet à rouet"
 
 #. [female]
 #: Armies_of_Amberan\units\empire\Bretteur.cfg:50
 msgid "female^Fencer"
-msgstr ""
+msgstr "Bretteuse"
 
 #. [unit_type]: id=emp_canon, race=mechanical
 #: Armies_of_Amberan\units\empire\Canon.cfg:4
 msgid "Cannon"
-msgstr ""
+msgstr "Canon"
 
 #. [attack]: type=impact
 #. [attack]: type=pierce
@@ -810,7 +939,7 @@ msgstr ""
 #: Armies_of_Amberan\units\far_nains\Bombarde.cfg:31
 #: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:36
 msgid "bombardment"
-msgstr ""
+msgstr "bombardement"
 
 #. [attack]: type=impact
 #: Armies_of_Amberan\units\empire\Canon.cfg:39
@@ -818,17 +947,17 @@ msgstr ""
 #: Armies_of_Amberan\units\empire\Canon_lourd.cfg:43
 #: Armies_of_Amberan\units\far_nains\Bombarde.cfg:40
 msgid "cannon"
-msgstr ""
+msgstr "canon"
 
 #. [unit_type]: id=emp_canon_leger, race=mechanical
 #: Armies_of_Amberan\units\empire\Canon_leger.cfg:4
 msgid "Light cannon"
-msgstr ""
+msgstr "Canon léger"
 
 #. [unit_type]: id=emp_canon_lourd, race=mechanical
 #: Armies_of_Amberan\units\empire\Canon_lourd.cfg:4
 msgid "Great cannon"
-msgstr ""
+msgstr "Grand canon"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Canon_lourd.cfg:22
@@ -841,43 +970,45 @@ msgstr ""
 #: Armies_of_Amberan\units\galianos\Milicien.cfg:22
 #: Armies_of_Amberan\units\rovahr\levee_feodale.cfg:29
 msgid "hast"
-msgstr ""
+msgstr "arme d‘hast"
 
 #. [unit_type]: id=emp_capitaine, race=empfinn
 #. [unit_type]: id=mord_capitaine, race=morken
 #: Armies_of_Amberan\units\empire\Capitaine.cfg:4
 #: Armies_of_Amberan\units\mork-darf\Capitaine.cfg:4
 msgid "Captain"
-msgstr ""
+msgstr "Capitaine"
 
 #. [unit_type]: id=emp_cavalier, race=empfinn
 #. [unit_type]: id=gal_cavalier, race=galien
 #. [unit_type]: id=nor_cavalier, race=nordian
+#. [unit_type]: id=rel_cavalier, race=rovElfe
 #: Armies_of_Amberan\units\empire\Cavalier.cfg:4
 #: Armies_of_Amberan\units\galianos\Cavalier.cfg:4
 #: Armies_of_Amberan\units\nord\Cavalier.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Cavalier.cfg:4
 msgid "Rider"
-msgstr ""
+msgstr "Cavalier"
 
 #. [unit_type]: id=emp_citoyen, race=empfinn
 #. [unit_type]: id=gal_citoyen, race=galien
 #: Armies_of_Amberan\units\empire\Citoyen.cfg:4
 #: Armies_of_Amberan\units\galianos\Citoyen.cfg:4
 msgid "Citizen"
-msgstr ""
+msgstr "Citoyen"
 
 #. [unit_type]: id=emp_commandant, race=empfinn
 #. [unit_type]: id=mord_commandant, race=morken
 #: Armies_of_Amberan\units\empire\Commandant.cfg:4
 #: Armies_of_Amberan\units\mork-darf\Commandant.cfg:4
 msgid "Commander"
-msgstr ""
+msgstr "Commandant"
 
 #. [attack]: type=blade
 #. [attack]: type=arcane
-#: Armies_of_Amberan\units\empire\Commandant.cfg:32
+#: Armies_of_Amberan\units\empire\Commandant.cfg:31
 #: Armies_of_Amberan\units\empire\Epeiste.cfg:29
-#: Armies_of_Amberan\units\empire\General.cfg:33
+#: Armies_of_Amberan\units\empire\General.cfg:32
 #: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:26
 #: Armies_of_Amberan\units\empire\Seigneur.cfg:31
 #: Armies_of_Amberan\units\farengar\Chevalier.cfg:30
@@ -901,57 +1032,59 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Templier.cfg:50
 #: Armies_of_Amberan\units\rovahr\Templier.cfg:59
 msgid "long sword"
-msgstr ""
+msgstr "épée longue"
 
 #. [unit_type]: id=emp_dueliste, race=empfinn
 #: Armies_of_Amberan\units\empire\Dueliste.cfg:4
 msgid "Duelist"
-msgstr ""
+msgstr "Dueliste"
 
 #. [female]
 #: Armies_of_Amberan\units\empire\Dueliste.cfg:53
 msgid "female^Duelist"
-msgstr ""
+msgstr "Dueliste"
 
 #. [unit_type]: id=emp_empereur, race=empfinn
 #: Armies_of_Amberan\units\empire\Empereur.cfg:4
 msgid "Emperor"
-msgstr ""
+msgstr "Empereur"
 
 #. [attack]: type=impact
 #: Armies_of_Amberan\units\empire\Empereur.cfg:39
 msgid "magical hammer"
-msgstr ""
+msgstr "marteau magique"
 
 #. [unit_type]: id=emp_enchanteur, race=empfinn
 #: Armies_of_Amberan\units\empire\Enchanteur.cfg:4
 msgid "Enchanter"
-msgstr ""
+msgstr "Enchanteur"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\empire\Enchanteur.cfg:37
 #: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:38
 msgid "enchantment of slowness"
-msgstr ""
+msgstr "enchantement de lenteur"
 
 #. [female]
 #: Armies_of_Amberan\units\empire\Enchanteur.cfg:50
 msgid "female^Enchanter"
-msgstr ""
+msgstr "Enchanteresse"
 
 #. [unit_type]: id=emp_epeiste, race=empfinn
 #. [unit_type]: id=gal_epeiste, race=galien
+#. [unit_type]: id=rel_epeiste, race=rovElfe
 #: Armies_of_Amberan\units\empire\Epeiste.cfg:4
 #: Armies_of_Amberan\units\galianos\Epeiste.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Epeiste.cfg:4
 msgid "Swordman"
-msgstr ""
+msgstr "Épéiste"
 
 #. [unit_type]: id=emp_general, race=empfinn
 #. [unit_type]: id=gal_general, race=galien
 #: Armies_of_Amberan\units\empire\General.cfg:4
 #: Armies_of_Amberan\units\galianos\General.cfg:4
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. [unit_type]: id=emp_hallebardier, race=empfinn
 #. [unit_type]: id=far_hallebardier, race=farengar
@@ -960,31 +1093,31 @@ msgstr ""
 #: Armies_of_Amberan\units\farengar\Hallebardier.cfg:4
 #: Armies_of_Amberan\units\mork-darf\Hallebardier.cfg:4
 msgid "Halberdier"
-msgstr ""
+msgstr "Hallebardier"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Hallebardier.cfg:29
 #: Armies_of_Amberan\units\mork-darf\Hallebardier.cfg:29
 #: Armies_of_Amberan\units\mork-darf\Veteran.cfg:30
 msgid "halberd"
-msgstr ""
+msgstr "hallebarde"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\empire\Hallebardier.cfg:41
 msgid "haleberd"
-msgstr ""
+msgstr "hallebarde"
 
 #. [unit_type]: id=emp_lansquenet, race=empfinn
 #: Armies_of_Amberan\units\empire\Lansquenet.cfg:4
 msgid "Lansquenet"
-msgstr ""
+msgstr "Lansquenet"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\empire\Lansquenet.cfg:30
 #: Armies_of_Amberan\units\rovahr\Chevalier_gothique_a_pieds.cfg:30
 #: Armies_of_Amberan\units\rovahr\Konig.cfg:35
 msgid "zweihander"
-msgstr ""
+msgstr "zweihander"
 
 #. [unit_type]: id=emp_maitreArbaletrier, race=empfinn
 #. [unit_type]: id=far_maitreArbaletrier, race=farengar
@@ -993,51 +1126,53 @@ msgstr ""
 #: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:4
 #: Armies_of_Amberan\units\nord\Maitre_arbaletrier.cfg:4
 msgid "Master crossbowman"
-msgstr ""
+msgstr "Maître arbalétrier"
 
 #. [unit_type]: id=emp_maitreDArmes, race=empfinn
 #: Armies_of_Amberan\units\empire\Maitre_d_armes.cfg:4
 msgid "Master at arms"
-msgstr ""
+msgstr "Maître d‘armes"
 
 #. [female]
 #: Armies_of_Amberan\units\empire\Maitre_d_armes.cfg:54
 msgid "female^Master at arms"
-msgstr ""
+msgstr "Maîtresse d‘armes"
 
 #. [unit_type]: id=emp_maitreEnchanteur, race=empfinn
 #: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:4
 msgid "Master Enchanter"
-msgstr ""
+msgstr "Maître enchanteur"
 
 #. [female]
 #: Armies_of_Amberan\units\empire\Maitre_enchanteur.cfg:51
 msgid "female^Master Enchanter"
-msgstr ""
+msgstr "Maîtresse enchanteresse"
 
 #. [unit_type]: id=emp_mortier, race=mechanical
 #: Armies_of_Amberan\units\empire\Mortier.cfg:4
 msgid "Mortar"
-msgstr ""
+msgstr "Mortier"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\empire\Mortier.cfg:31
-msgid "incandescent bullets"
-msgstr ""
+msgid "heated shot"
+msgstr "boulet rouge"
 
 #. [unit_type]: id=emp_noble, race=empfinn
 #. [unit_type]: id=far_noble, race=farengar
+#. [unit_type]: id=rel_noble, race=rovElfe
 #: Armies_of_Amberan\units\empire\Noble.cfg:4
 #: Armies_of_Amberan\units\farengar\Noble.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Noble.cfg:4
 msgid "Noble"
-msgstr ""
+msgstr "Noble"
 
 #. [unit_type]: id=emp_piquier, race=empfinn
 #. [unit_type]: id=gal_piquier, race=galien
 #: Armies_of_Amberan\units\empire\Piquier.cfg:4
 #: Armies_of_Amberan\units\galianos\Piquier.cfg:4
 msgid "Pikeman"
-msgstr ""
+msgstr "Piquier"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Piquier.cfg:28
@@ -1049,38 +1184,40 @@ msgstr ""
 #: Armies_of_Amberan\units\galianos\Piquier_lourd.cfg:26
 #: Armies_of_Amberan\units\mork-darf\Fantassin.cfg:29
 msgid "pike"
-msgstr ""
+msgstr "pique"
 
 #. [unit_type]: id=emp_pistolier, race=empfinn
 #: Armies_of_Amberan\units\empire\Pistolier.cfg:4
 msgid "Pistolier"
-msgstr ""
+msgstr "Pistolier"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Pistolier.cfg:32
-msgid "pair of flintlock pistols"
-msgstr ""
+msgid "pair of wheellock pistols"
+msgstr "paire de pistolets à rouet"
 
 #. [unit_type]: id=emp_recrue, race=empfinn
 #: Armies_of_Amberan\units\empire\Recrue.cfg:4
 msgid "Recruit"
-msgstr ""
+msgstr "Recrue"
 
 #. [unit_type]: id=emp_reitre, race=empfinn
 #: Armies_of_Amberan\units\empire\Reitre.cfg:4
 msgid "Reiter"
-msgstr ""
+msgstr "Reître"
 
 #. [unit_type]: id=emp_seigneur, race=empfinn
-#. [unit_type]: id=far_seigneur, race=farengar
 #. [unit_type]: id=fna_seigneur, race=farNain
+#. [unit_type]: id=far_seigneur, race=farengar
 #. [unit_type]: id=fed_seigneur, race=mauvilien
+#. [unit_type]: id=rel_seigneur, race=rovElfe
 #: Armies_of_Amberan\units\empire\Seigneur.cfg:4
-#: Armies_of_Amberan\units\farengar\Seigneur.cfg:4
 #: Armies_of_Amberan\units\far_nains\Seigneur.cfg:4
+#: Armies_of_Amberan\units\farengar\Seigneur.cfg:4
 #: Armies_of_Amberan\units\federation\Seigneur.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Seigneur.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Seigneur"
 
 #. [unit_type]: id=emp_sergent, race=empfinn
 #. [unit_type]: id=far_sergent, race=farengar
@@ -1089,33 +1226,360 @@ msgstr ""
 #: Armies_of_Amberan\units\farengar\Sergent.cfg:4
 #: Armies_of_Amberan\units\rovahr\Sergent.cfg:4
 msgid "Sergeant"
-msgstr ""
+msgstr "Sergent"
 
 #. [unit_type]: id=emp_soldat_hel, race=empfinn
 #: Armies_of_Amberan\units\empire\Soldat_helgrind.cfg:4
 msgid "Helgrindian soldier"
-msgstr ""
+msgstr "Soldat helgrindois"
 
 #. [unit_type]: id=emp_soldat_lourd, race=empfinn
 #: Armies_of_Amberan\units\empire\Soldat_helgrind_lourd.cfg:4
 msgid "Helgrindian heavy soldier"
-msgstr ""
+msgstr "Soldat lourd helgrindois"
 
 #. [unit_type]: id=emp_tireur, race=empfinn
 #: Armies_of_Amberan\units\empire\Tireur_d'elite.cfg:4
 msgid "Sharpshooter"
-msgstr ""
+msgstr "Tireur d'élite"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\empire\Tireur_d'elite.cfg:35
 #: Armies_of_Amberan\units\mork-darf\Mousquetaire.cfg:32
 msgid "musket"
-msgstr ""
+msgstr "mousquet"
+
+#. [unit_type]: id=fna_archimageDesRunes, race=farNain
+#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:4
+msgid "Runes archmage"
+msgstr "Archimage des runes"
+
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:32
+#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:31
+#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:31
+msgid "runic hammer"
+msgstr "marteau runique"
+
+#. [attack]: type=fire
+#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:44
+#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:43
+#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:43
+#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:39
+msgid "runic lightning"
+msgstr "éclair runique"
+
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:25
+#: Armies_of_Amberan\units\far_nains\Artificier.cfg:26
+#: Armies_of_Amberan\units\farengar\Clerc.cfg:40
+#: Armies_of_Amberan\units\farengar\Initie.cfg:31
+#: Armies_of_Amberan\units\galianos\Apothicaire.cfg:27
+#: Armies_of_Amberan\units\galianos\Herboriste.cfg:25
+#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:25
+#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:30
+msgid "mace"
+msgstr "masse d‘armes"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:34
+#: Armies_of_Amberan\units\far_nains\Artificier.cfg:35
+#: Armies_of_Amberan\units\mork-darf\Arquebusier-veteran.cfg:31
+#: Armies_of_Amberan\units\mork-darf\Arquebusier.cfg:31
+msgid "handgun"
+msgstr "arquebuse"
+
+#. [unit_type]: id=fna_artificier, race=farNain
+#: Armies_of_Amberan\units\far_nains\Artificier.cfg:4
+msgid "Artificer"
+msgstr "Artificier"
+
+#. [unit_type]: id=fna_balisteDeSiege, race=mechanical
+#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:4
+msgid "Siege balista"
+msgstr "Baliste de siège"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:28
+#: Armies_of_Amberan\units\far_nains\Baliste.cfg:27
+#: Armies_of_Amberan\units\far_nains\Bombarde.cfg:22
+#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:27
+msgid "Hatchet"
+msgstr "Hachette"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:46
+#: Armies_of_Amberan\units\far_nains\Baliste.cfg:45
+#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:45
+msgid "balista"
+msgstr "baliste"
+
+#. [unit_type]: id=fna_baliste, race=mechanical
+#: Armies_of_Amberan\units\far_nains\Baliste.cfg:4
+msgid "Balista"
+msgstr "Baliste"
+
+#. [unit_type]: id=fna_bombarde, race=mechanical
+#: Armies_of_Amberan\units\far_nains\Bombarde.cfg:4
+msgid "Bombard"
+msgstr "Bombarde"
+
+#. [unit_type]: id=fna_bricoleur, race=farNain
+#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:4
+msgid "Tinker"
+msgstr "Bricoleur"
+
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:25
+#: Armies_of_Amberan\units\far_nains\Champion.cfg:39
+#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:27
+#: Armies_of_Amberan\units\far_nains\Comte.cfg:47
+#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:47
+#: Armies_of_Amberan\units\far_nains\Garde.cfg:46
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:28
+#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:38
+#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:38
+#: Armies_of_Amberan\units\far_nains\Oursier.cfg:27
+#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:27
+#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:46
+#: Armies_of_Amberan\units\far_nains\Thane.cfg:46
+#: Armies_of_Amberan\units\farengar\Fantassin.cfg:33
+#: Armies_of_Amberan\units\farengar\Grand_clerc.cfg:37
+#: Armies_of_Amberan\units\galianos\Fantassin.cfg:30
+#: Armies_of_Amberan\units\galianos\Fantassin_lourd.cfg:31
+#: Armies_of_Amberan\units\mork-darf\Cuirassier.cfg:30
+#: Armies_of_Amberan\units\mork-darf\Martelier.cfg:31
+#: Armies_of_Amberan\units\mork-darf\Soldat-lourd.cfg:30
+#: Armies_of_Amberan\units\nord\Guerrier.cfg:46
+#: Armies_of_Amberan\units\nord\Haut_roi.cfg:51
+#: Armies_of_Amberan\units\nord\Huskarl.cfg:46
+#: Armies_of_Amberan\units\nord\Jarl.cfg:48
+#: Armies_of_Amberan\units\nord\Thane.cfg:46
+msgid "hammer"
+msgstr "marteau"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:34
+#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:34
+#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:35
+msgid "pistol"
+msgstr "pistolet"
+
+#. [unit_type]: id=fna_champion, race=farNain
+#. [unit_type]: id=far_champion, race=farengar
+#: Armies_of_Amberan\units\far_nains\Champion.cfg:4
+#: Armies_of_Amberan\units\farengar\Champion.cfg:4
+msgid "Champion"
+msgstr "Champion"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\far_nains\Champion.cfg:30
+#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:29
+msgid "two handed axe"
+msgstr "hache à deux mains"
+
+#. [unit_type]: id=fna_chevalierGriffon, race=farNain
+#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:4
+msgid "Griffin knight"
+msgstr "Chevalier griffon"
+
+#. [attack]: type=blade
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:28
+#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:36
+#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:28
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:29
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:37
+#: Armies_of_Amberan\units\far_nains\Oursier.cfg:36
+#: Armies_of_Amberan\units\mork-darf\Archer-sur-griffon.cfg:29
+#: Armies_of_Amberan\units\mork-darf\Chasseur-sur-griffon.cfg:28
+msgid "claws"
+msgstr "griffes"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:37
+#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:37
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:38
+#: Armies_of_Amberan\units\farengar\Chevalier.cfg:39
+#: Armies_of_Amberan\units\farengar\Ecuyer.cfg:25
+#: Armies_of_Amberan\units\farengar\Grand_chevalier.cfg:40
+#: Armies_of_Amberan\units\farengar\Heraut.cfg:26
+#: Armies_of_Amberan\units\farengar\Lancier.cfg:25
+#: Armies_of_Amberan\units\galianos\Hussard.cfg:22
+#: Armies_of_Amberan\units\galianos\Lancier.cfg:31
+#: Armies_of_Amberan\units\galianos\Lancier_d'elite.cfg:32
+#: Armies_of_Amberan\units\rovahr\Chevalier_feodal.cfg:40
+#: Armies_of_Amberan\units\rovahr\Chevalier_gothique.cfg:41
+#: Armies_of_Amberan\units\rovahr\Halbruder.cfg:38
+#: Armies_of_Amberan\units\rovahr\Jeune_chevalier.cfg:26
+#: Armies_of_Amberan\units\rovahr\Ritterbruder.cfg:41
+msgid "lance"
+msgstr "lance de cavalerie"
+
+#. [unit_type]: id=fna_chevalierOurs, race=farNain
+#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:4
+msgid "Bear knight"
+msgstr "Chevalier ours"
+
+#. [unit_type]: id=fna_chevaucheurDeGriffon, race=farNain
+#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:4
+msgid "Griffin rider"
+msgstr "Chevaucheur de griffon"
+
+#. [unit_type]: id=fna_comte, race=farNain
+#. [unit_type]: id=far_comte, race=farengar
+#: Armies_of_Amberan\units\far_nains\Comte.cfg:4
+#: Armies_of_Amberan\units\farengar\Comte.cfg:4
+msgid "Count"
+msgstr "Comte"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\far_nains\Comte.cfg:38
+#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:37
+#: Armies_of_Amberan\units\federation\Gallowglass.cfg:29
+#: Armies_of_Amberan\units\nord\Seigneur_de_guerre.cfg:32
+msgid "battle axe"
+msgstr "hache de bataille"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\far_nains\Comte.cfg:56
+#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:55
+#: Armies_of_Amberan\units\nord\Double-hache.cfg:40
+#: Armies_of_Amberan\units\nord\Varegue.cfg:47
+#: Armies_of_Amberan\units\nord\Viking.cfg:46
+msgid "throwing axe"
+msgstr "hache de jet"
+
+#. [unit_type]: id=fna_cranequinier, race=farNain
+#: Armies_of_Amberan\units\far_nains\Cranequinier.cfg:4
+msgid "Arbalester"
+msgstr "Crannequinier"
+
+#. [unit_type]: id=fna_forgeronRunique, race=farNain
+#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:4
+msgid "Runic smith"
+msgstr "Forgeron runique"
+
+#. [unit_type]: id=fna_gardeDArgent, race=farNain
+#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:4
+msgid "Silver guard"
+msgstr "Garde d‘argent"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:38
+#: Armies_of_Amberan\units\far_nains\Garde.cfg:37
+#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:29
+#: Armies_of_Amberan\units\far_nains\Thane.cfg:37
+#: Armies_of_Amberan\units\federation\Eclaireur.cfg:28
+#: Armies_of_Amberan\units\federation\Franc-archer.cfg:29
+#: Armies_of_Amberan\units\federation\Longbowman.cfg:28
+#: Armies_of_Amberan\units\federation\Porteur_de_hache.cfg:28
+#: Armies_of_Amberan\units\federation\Villageois.cfg:28
+#: Armies_of_Amberan\units\gobmon\fantassin.cfg:23
+#: Armies_of_Amberan\units\gobmon\guerrier.cfg:22
+#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:32
+#: Armies_of_Amberan\units\mork-darf\Combattant.cfg:32
+#: Armies_of_Amberan\units\mork-darf\Guerrier.cfg:32
+#: Armies_of_Amberan\units\mork-darf\Protecteur.cfg:33
+#: Armies_of_Amberan\units\mork-darf\Rodeur.cfg:38
+#: Armies_of_Amberan\units\mork-darf\Traqueur.cfg:37
+#: Armies_of_Amberan\units\nord\Destructeur.cfg:32
+#: Armies_of_Amberan\units\nord\Double-hache.cfg:31
+#: Armies_of_Amberan\units\nord\Maraudeur.cfg:31
+#: Armies_of_Amberan\units\nord\Pillard.cfg:31
+#: Armies_of_Amberan\units\nord\Ravageur.cfg:31
+#: Armies_of_Amberan\units\nord\Varegue.cfg:38
+#: Armies_of_Amberan\units\nord\Viking.cfg:37
+#: Armies_of_Amberan\units\nord\Villageois.cfg:31
+msgid "axe"
+msgstr "hache"
+
+#. [attack]: type=fire
+#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:56
+msgid "incendiary bomb"
+msgstr "bombe incandiaire"
+
+#. [unit_type]: id=fna_garde, race=farNain
+#. [unit_type]: id=nor_garde, race=nordian
+#: Armies_of_Amberan\units\far_nains\Garde.cfg:4
+#: Armies_of_Amberan\units\nord\Garde.cfg:4
+msgid "Guard"
+msgstr "Garde"
+
+#. [unit_type]: id=fna_grandchevalierGriffon, race=farNain
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:4
+msgid "Grand griffin knight"
+msgstr "Grand chevalier griffon"
+
+#. [unit_type]: id=fna_GrandchevalierOurs, race=farNain
+#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:4
+msgid "Grand bear knight"
+msgstr "Grand chevalier ours"
+
+#. [unit_type]: id=fna_grandeBaliste, race=mechanical
+#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:4
+msgid "Great balista"
+msgstr "Grande baliste"
+
+#. [unit_type]: id=fna_guerrierLourd, race=farNain
+#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:4
+msgid "Heavy fighter"
+msgstr "Combattant lourd"
+
+#. [unit_type]: id=fna_guerrier, race=farNain
+#. [unit_type]: id=mord_combattant, race=darfen
+#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:4
+#: Armies_of_Amberan\units\mork-darf\Combattant.cfg:4
+msgid "Fighter"
+msgstr "Combattant"
+
+#. [unit_type]: id=fna_ingenieur, race=farNain
+#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:4
+msgid "Engeener"
+msgstr "Ingénieur"
+
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:25
+#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:26
+msgid "tools"
+msgstr "outils"
+
+#. [unit_type]: id=fna_mageDesRunes, race=farNain
+#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:4
+msgid "Runes mage"
+msgstr "Mage runique"
+
+#. [unit_type]: id=fna_maitreIngenieur, race=farNain
+#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:4
+msgid "Master engeener"
+msgstr "Maître ingénieur"
+
+#. [unit_type]: id=fna_oursier, race=farNain
+#: Armies_of_Amberan\units\far_nains\Oursier.cfg:4
+msgid "Bear rider"
+msgstr "Chevaucheur d’ours"
+
+#. [unit_type]: id=fna_scribeRunique, race=farNain
+#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:4
+msgid "Runic scribe"
+msgstr "Scribe runique"
+
+#. [unit_type]: id=fna_sentinelle, race=farNain
+#: Armies_of_Amberan\units\far_nains\Sentinelle.cfg:4
+msgid "Sentinel"
+msgstr "Sentinelle"
+
+#. [unit_type]: id=fna_thane, race=farNain
+#. [unit_type]: id=nor_thane, race=nordian
+#: Armies_of_Amberan\units\far_nains\Thane.cfg:4
+#: Armies_of_Amberan\units\nord\Thane.cfg:4
+msgid "Thane"
+msgstr "Thane"
 
 #. [unit_type]: id=far_apprenti, race=farengar
 #: Armies_of_Amberan\units\farengar\Apprenti.cfg:4
 msgid "Apprentice"
-msgstr ""
+msgstr "Apprentit"
 
 #. [attack]: type=impact
 #. [attack]: type=blade
@@ -1131,12 +1595,19 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Druide.cfg:31
 #: Armies_of_Amberan\units\federation\Grand_arcaniste.cfg:35
 #: Armies_of_Amberan\units\federation\Jeune_druide.cfg:31
-#: Armies_of_Amberan\units\mork-darf\Chamane.cfg:25
+#: Armies_of_Amberan\units\gobmon\chamane.cfg:26
+#: Armies_of_Amberan\units\gobmon\gobelin-medecine.cfg:25
+#: Armies_of_Amberan\units\mork-darf\Chamane.cfg:28
+#: Armies_of_Amberan\units\rov_elf\Archidruide.cfg:28
+#: Armies_of_Amberan\units\rov_elf\Druide.cfg:27
+#: Armies_of_Amberan\units\rov_elf\Mage.cfg:24
+#: Armies_of_Amberan\units\rov_elf\Magistere.cfg:25
+#: Armies_of_Amberan\units\rov_elf\Soigneur.cfg:27
 #: Armies_of_Amberan\units\rovahr\Grand_mage.cfg:33
 #: Armies_of_Amberan\units\rovahr\Mage.cfg:32
 #: Armies_of_Amberan\units\rovahr\Novice.cfg:28
 msgid "staff"
-msgstr ""
+msgstr "bâton"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\farengar\Apprenti.cfg:37
@@ -1146,25 +1617,26 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Guerrier-mage.cfg:45
 #: Armies_of_Amberan\units\federation\Mage-lame.cfg:40
 msgid "magic missile"
-msgstr ""
+msgstr "projectile magique"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Apprenti.cfg:50
 msgid "female^Apprentice"
-msgstr ""
+msgstr "Apprentie"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Arbaletrier.cfg:47
 #: Armies_of_Amberan\units\nord\Arbaletrier.cfg:53
 msgid "female^Crossbowman"
-msgstr ""
+msgstr "Arbalétrière"
 
 #. [unit_type]: id=far_arcaniste, race=farengar
 #. [unit_type]: id=fed_arcaniste, race=mauvilien
 #: Armies_of_Amberan\units\farengar\Arcaniste.cfg:4
 #: Armies_of_Amberan\units\federation\Arcaniste.cfg:4
+#, fuzzy
 msgid "Arcanist"
-msgstr ""
+msgstr "Arcaniste"
 
 #. [attack]: type=cold
 #: Armies_of_Amberan\units\farengar\Arcaniste.cfg:56
@@ -1176,7 +1648,7 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Mage.cfg:41
 #: Armies_of_Amberan\units\rovahr\Novice.cfg:37
 msgid "frost bolt"
-msgstr ""
+msgstr "trait de glace"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\farengar\Arcaniste.cfg:68
@@ -1184,19 +1656,24 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Arcaniste.cfg:68
 #: Armies_of_Amberan\units\federation\Archimage.cfg:70
 #: Armies_of_Amberan\units\federation\Grand_arcaniste.cfg:68
+#, fuzzy
 msgid "purifying fire"
-msgstr ""
+msgstr "feu purificateur"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Arcaniste.cfg:83
 #: Armies_of_Amberan\units\federation\Arcaniste.cfg:85
 msgid "female^Arcanist"
-msgstr ""
+msgstr "Arcaniste"
 
 #. [unit_type]: id=far_archer, race=farengar
+#. [unit_type]: id=gob_archer, race=gobmon
+#. [unit_type]: id=rel_archer, race=rovElfe
 #: Armies_of_Amberan\units\farengar\Archer.cfg:4
+#: Armies_of_Amberan\units\gobmon\archer.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Archer.cfg:4
 msgid "Bowman"
-msgstr ""
+msgstr "Archer"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\farengar\Archer.cfg:37
@@ -1204,27 +1681,35 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Franc-archer.cfg:38
 #: Armies_of_Amberan\units\federation\Longbowman.cfg:37
 #: Armies_of_Amberan\units\galianos\Garde_forestier.cfg:41
+#: Armies_of_Amberan\units\gobmon\archer.cfg:32
 #: Armies_of_Amberan\units\mork-darf\Archer-sur-griffon.cfg:38
 #: Armies_of_Amberan\units\mork-darf\Chasseur-sur-griffon.cfg:37
-#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:38
-#: Armies_of_Amberan\units\mork-darf\Rodeur.cfg:44
-#: Armies_of_Amberan\units\mork-darf\Traqueur.cfg:43
+#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:41
+#: Armies_of_Amberan\units\mork-darf\Rodeur.cfg:47
+#: Armies_of_Amberan\units\mork-darf\Traqueur.cfg:46
 #: Armies_of_Amberan\units\nord\Archer_monte.cfg:40
 #: Armies_of_Amberan\units\nord\Maitre_archer_monte.cfg:41
+#: Armies_of_Amberan\units\rov_elf\Archer.cfg:35
+#: Armies_of_Amberan\units\rov_elf\Cavalier.cfg:40
+#: Armies_of_Amberan\units\rov_elf\Eclaireur.cfg:40
+#: Armies_of_Amberan\units\rov_elf\Heraut.cfg:40
+#: Armies_of_Amberan\units\rov_elf\Ranger.cfg:44
+#: Armies_of_Amberan\units\rov_elf\Vengeur.cfg:45
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Archer.cfg:47
+#: Armies_of_Amberan\units\rov_elf\Archer.cfg:45
 msgid "female^Bowman"
-msgstr ""
+msgstr "Archère"
 
 #. [unit_type]: id=far_archerLong, race=farengar
 #. [unit_type]: id=rov_archerLong, race=rovahrien
 #: Armies_of_Amberan\units\farengar\Archer_long.cfg:4
 #: Armies_of_Amberan\units\rovahr\Archer_long.cfg:4
 msgid "Longbowman"
-msgstr ""
+msgstr "Archer à arc long"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\farengar\Archer_long.cfg:37
@@ -1232,20 +1717,23 @@ msgstr ""
 #: Armies_of_Amberan\units\galianos\Rodeur.cfg:42
 #: Armies_of_Amberan\units\nord\Archer_nordique.cfg:37
 #: Armies_of_Amberan\units\nord\Maitre_archer.cfg:41
+#: Armies_of_Amberan\units\rov_elf\Archer-de-guerre.cfg:32
+#: Armies_of_Amberan\units\rov_elf\Maitre-archer.cfg:33
 #: Armies_of_Amberan\units\rovahr\Archer_long.cfg:38
 #: Armies_of_Amberan\units\rovahr\Archer_royal.cfg:39
+#, fuzzy
 msgid "longbow"
-msgstr ""
+msgstr "arc long"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Archer_long.cfg:47
 msgid "female^longbowman"
-msgstr ""
+msgstr "Archère à arc long"
 
 #. [unit_type]: id=far_archimageDeBataille, race=farengar
 #: Armies_of_Amberan\units\farengar\Archimage_de_bataille.cfg:4
 msgid "Battle archmage"
-msgstr ""
+msgstr "Archimage de bataille"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\farengar\Archimage_de_bataille.cfg:44
@@ -1255,265 +1743,202 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Sorcegarde.cfg:41
 #: Armies_of_Amberan\units\federation\Sorcegarde_d'elite.cfg:43
 #: Armies_of_Amberan\units\federation\Sorcegarde_emerite.cfg:44
+#: Armies_of_Amberan\units\rov_elf\Mage.cfg:33
+#: Armies_of_Amberan\units\rov_elf\Magistere.cfg:34
 msgid "fireball"
-msgstr ""
+msgstr "boule de feu"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Archimage_de_bataille.cfg:57
 msgid "female^Battle archmage"
-msgstr ""
+msgstr "Archimage de bataille"
 
-#. [unit_type]: id=far_champion, race=farengar
-#. [unit_type]: id=fna_champion, race=farNain
-#: Armies_of_Amberan\units\farengar\Champion.cfg:4
-#: Armies_of_Amberan\units\far_nains\Champion.cfg:4
-msgid "Champion"
-msgstr ""
+#. [female]
+#: Armies_of_Amberan\units\farengar\Arquebusier.cfg:48
+msgid "female^Handgunner"
+msgstr "Arquebusière"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\farengar\Champion.cfg:46
 #: Armies_of_Amberan\units\farengar\Chevalier_a_pieds.cfg:45
 #: Armies_of_Amberan\units\rovahr\Chevalier_a_pieds.cfg:29
 msgid "bastard sword"
-msgstr ""
+msgstr "épée bâtarde"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Champion.cfg:58
 msgid "female^Champion"
-msgstr ""
+msgstr "Championne"
 
 #. [unit_type]: id=far_chevalier, race=farengar
 #: Armies_of_Amberan\units\farengar\Chevalier.cfg:4
 msgid "Chevalier"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Armies_of_Amberan\units\farengar\Chevalier.cfg:39
-#: Armies_of_Amberan\units\farengar\Ecuyer.cfg:25
-#: Armies_of_Amberan\units\farengar\Grand_chevalier.cfg:40
-#: Armies_of_Amberan\units\farengar\Heraut.cfg:26
-#: Armies_of_Amberan\units\farengar\Lancier.cfg:25
-#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:37
-#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:37
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:38
-#: Armies_of_Amberan\units\galianos\Hussard.cfg:22
-#: Armies_of_Amberan\units\galianos\Lancier.cfg:31
-#: Armies_of_Amberan\units\galianos\Lancier_d'elite.cfg:32
-#: Armies_of_Amberan\units\rovahr\Chevalier_feodal.cfg:40
-#: Armies_of_Amberan\units\rovahr\Chevalier_gothique.cfg:41
-#: Armies_of_Amberan\units\rovahr\Halbruder.cfg:38
-#: Armies_of_Amberan\units\rovahr\Jeune_chevalier.cfg:26
-#: Armies_of_Amberan\units\rovahr\Ritterbruder.cfg:41
-msgid "lance"
-msgstr ""
+msgstr "Chevalier"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Chevalier.cfg:52
 msgid "female^Chevalier"
-msgstr ""
+msgstr "Chevaleresse"
 
 #. [unit_type]: id=far_chevalierAPieds, race=farengar
 #: Armies_of_Amberan\units\farengar\Chevalier_a_pieds.cfg:4
 msgid "Chevalier on foots"
-msgstr ""
+msgstr "Chevalier à pieds"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Chevalier_a_pieds.cfg:54
 msgid "female^Chevalier on foots"
-msgstr ""
+msgstr "Chevaleresse à pieds"
 
 #. [unit_type]: id=far_chevalierErrant, race=farengar
 #: Armies_of_Amberan\units\farengar\Chevalier_errant.cfg:4
 msgid "Questing chevalier"
-msgstr ""
+msgstr "Chevalier errand"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Chevalier_errant.cfg:53
 msgid "female^Questing chevalier"
-msgstr ""
+msgstr "Chevaleresse errante"
 
 #. [unit_type]: id=far_clerc, race=farengar
 #: Armies_of_Amberan\units\farengar\Clerc.cfg:4
 msgid "Cleric"
-msgstr ""
-
-#. [attack]: type=impact
-#: Armies_of_Amberan\units\farengar\Clerc.cfg:40
-#: Armies_of_Amberan\units\farengar\Initie.cfg:31
-#: Armies_of_Amberan\units\far_nains\Arquebusier.cfg:25
-#: Armies_of_Amberan\units\far_nains\Artificier.cfg:26
-#: Armies_of_Amberan\units\galianos\Apothicaire.cfg:27
-#: Armies_of_Amberan\units\galianos\Herboriste.cfg:25
-#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:22
-#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:27
-msgid "mace"
-msgstr ""
+msgstr "Clerc"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\farengar\Clerc.cfg:49
 #: Armies_of_Amberan\units\farengar\Grand_clerc.cfg:46
 #: Armies_of_Amberan\units\farengar\Initie.cfg:40
 msgid "holy missile"
-msgstr ""
+msgstr "projectile sacré"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Clerc.cfg:62
 msgid "female^Cleric"
-msgstr ""
-
-#. [unit_type]: id=far_comte, race=farengar
-#. [unit_type]: id=fna_comte, race=farNain
-#: Armies_of_Amberan\units\farengar\Comte.cfg:4
-#: Armies_of_Amberan\units\far_nains\Comte.cfg:4
-msgid "Count"
-msgstr ""
+msgstr "Clerc"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Comte.cfg:45
 msgid "female^Countess"
-msgstr ""
+msgstr "Comtesse"
 
 #. [unit_type]: id=far_conscrit, race=farengar
 #: Armies_of_Amberan\units\farengar\Conscrit.cfg:4
 msgid "Conscript"
-msgstr ""
+msgstr "Conscript"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Conscrit.cfg:40
 msgid "female^Conscript"
-msgstr ""
+msgstr "Conscipte"
 
 #. [unit_type]: id=far_duc, race=farengar
 #: Armies_of_Amberan\units\farengar\Duc.cfg:4
 msgid "Duke"
-msgstr ""
+msgstr "Duc"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\farengar\Duc.cfg:37
+#, fuzzy
 msgid "magic long sword"
-msgstr ""
+msgstr "épée longue magique"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Duc.cfg:46
 msgid "female^Duchess"
-msgstr ""
+msgstr "Duchesse"
 
 #. [unit_type]: id=far_ecuyer, race=farengar
 #. [unit_type]: id=rov_ecuyer, race=rovahrien
 #: Armies_of_Amberan\units\farengar\Ecuyer.cfg:4
 #: Armies_of_Amberan\units\rovahr\Ecuyer.cfg:4
 msgid "Squire"
-msgstr ""
+msgstr "Écuyer"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Ecuyer.cfg:37
 msgid "female^Squire"
-msgstr ""
+msgstr "Écuyère"
 
 #. [unit_type]: id=far_fantassin, race=farengar
 #. [unit_type]: id=gal_fantassin, race=galien
+#. [unit_type]: id=gob_fantassin, race=gobmon
 #: Armies_of_Amberan\units\farengar\Fantassin.cfg:5
 #: Armies_of_Amberan\units\galianos\Fantassin.cfg:4
+#: Armies_of_Amberan\units\gobmon\fantassin.cfg:4
+#, fuzzy
 msgid "Footman"
-msgstr ""
-
-#. [attack]: type=impact
-#: Armies_of_Amberan\units\farengar\Fantassin.cfg:33
-#: Armies_of_Amberan\units\farengar\Grand_clerc.cfg:37
-#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:25
-#: Armies_of_Amberan\units\far_nains\Champion.cfg:39
-#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:27
-#: Armies_of_Amberan\units\far_nains\Comte.cfg:47
-#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:47
-#: Armies_of_Amberan\units\far_nains\Garde.cfg:46
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:28
-#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:38
-#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:38
-#: Armies_of_Amberan\units\far_nains\Oursier.cfg:27
-#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:27
-#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:46
-#: Armies_of_Amberan\units\far_nains\Thane.cfg:46
-#: Armies_of_Amberan\units\galianos\Fantassin.cfg:30
-#: Armies_of_Amberan\units\galianos\Fantassin_lourd.cfg:31
-#: Armies_of_Amberan\units\mork-darf\Cuirassier.cfg:30
-#: Armies_of_Amberan\units\mork-darf\Martelier.cfg:31
-#: Armies_of_Amberan\units\mork-darf\Soldat-lourd.cfg:30
-#: Armies_of_Amberan\units\nord\Guerrier.cfg:46
-#: Armies_of_Amberan\units\nord\Haut_roi.cfg:51
-#: Armies_of_Amberan\units\nord\Huskarl.cfg:46
-#: Armies_of_Amberan\units\nord\Jarl.cfg:48
-#: Armies_of_Amberan\units\nord\Thane.cfg:46
-msgid "hammer"
-msgstr ""
+msgstr "Fantassin"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Fantassin.cfg:42
 msgid "female^Footman"
-msgstr ""
+msgstr "Fantassin"
 
 #. [unit_type]: id=far_gardeDucal, race=farengar
 #: Armies_of_Amberan\units\farengar\Garde_ducal.cfg:4
 msgid "Ducal guard"
-msgstr ""
+msgstr "Garde ducal"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\farengar\Garde_ducal.cfg:32
 #: Armies_of_Amberan\units\farengar\Garde_ducal.cfg:44
 msgid "Haleberd"
-msgstr ""
+msgstr "hallebarde"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Garde_ducal.cfg:54
 msgid "female^Ducal guard"
-msgstr ""
+msgstr "Garde ducale"
 
 #. [unit_type]: id=far_grandArcaniste, race=farengar
 #: Armies_of_Amberan\units\farengar\Grand_arcaniste.cfg:4
 msgid "Great arcanist"
-msgstr ""
+msgstr "Grand arcaniste"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Grand_arcaniste.cfg:84
 msgid "female^Great arcanist"
-msgstr ""
+msgstr "Grande arcaniste"
 
 #. [unit_type]: id=far_grandChevalier, race=farengar
 #: Armies_of_Amberan\units\farengar\Grand_chevalier.cfg:4
+#, fuzzy
 msgid "Great chevalier"
-msgstr ""
+msgstr "Grand chevalier"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Grand_chevalier.cfg:53
 msgid "female^Great chevalier"
-msgstr ""
+msgstr "Grande chevaleresse"
 
 #. [unit_type]: id=far_grandClerc, race=farengar
 #: Armies_of_Amberan\units\farengar\Grand_clerc.cfg:4
 msgid "High cleric"
-msgstr ""
+msgstr "Haut clerc"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Grand_clerc.cfg:59
 msgid "female^Great cleric"
-msgstr ""
+msgstr "Haute clerc"
 
 #. [unit_type]: id=far_grandMaitrePaladin, race=farengar
 #: Armies_of_Amberan\units\farengar\Grand_maitre_paladin.cfg:4
 msgid "Grand master paladin"
-msgstr ""
+msgstr "Grand maître paladin"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\farengar\Grand_maitre_paladin.cfg:61
 #: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:58
 #: Armies_of_Amberan\units\farengar\Paladin.cfg:57
 msgid "light's smite"
-msgstr ""
+msgstr "châtiment de la lumière"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Grand_maitre_paladin.cfg:74
 msgid "female^Grand master paladin"
-msgstr ""
+msgstr "Grande maîtresse paladine"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1522,93 +1947,99 @@ msgstr ""
 #: Armies_of_Amberan\units\mork-darf\Hallebardier.cfg:41
 #: Armies_of_Amberan\units\mork-darf\Veteran.cfg:42
 msgid "Halberd"
-msgstr ""
+msgstr "hallebarde"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Hallebardier.cfg:53
 msgid "female^Halberdier"
-msgstr ""
+msgstr "Hallebardière"
 
 #. [unit_type]: id=far_heraut, race=farengar
+#. [unit_type]: id=rel_heraut, race=rovElfe
 #: Armies_of_Amberan\units\farengar\Heraut.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Heraut.cfg:4
 msgid "Herald"
-msgstr ""
+msgstr "Héraut"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Heraut.cfg:38
+#: Armies_of_Amberan\units\rov_elf\Heraut.cfg:50
 msgid "female^Herald"
-msgstr ""
+msgstr "Héraut"
 
 #. [unit_type]: id=far_initie, race=farengar
 #: Armies_of_Amberan\units\farengar\Initie.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Initié"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Initie.cfg:53
 msgid "female^Initiate"
-msgstr ""
+msgstr "Initiée"
 
 #. [unit_type]: id=far_lancier, race=farengar
 #. [unit_type]: id=gal_lancier, race=galien
 #: Armies_of_Amberan\units\farengar\Lancier.cfg:4
 #: Armies_of_Amberan\units\galianos\Lancier.cfg:4
 msgid "Lancer"
-msgstr ""
+msgstr "Lancier"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Lancier.cfg:37
 msgid "female^Lancer"
-msgstr ""
+msgstr "Lancière"
 
 #. [unit_type]: id=far_mage, race=farengar
+#. [unit_type]: id=rel_mage, race=rovElfe
 #. [unit_type]: id=rov_mage, race=rovahrien
 #: Armies_of_Amberan\units\farengar\Mage.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Mage.cfg:4
 #: Armies_of_Amberan\units\rovahr\Mage.cfg:4
 msgid "Mage"
-msgstr ""
+msgstr "Mage"
 
 #. [female]
 #. [unit_type]: id=mord_magicienne, race=darfen
 #: Armies_of_Amberan\units\farengar\Mage.cfg:54
 #: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Mage.cfg:45
 #: Armies_of_Amberan\units\rovahr\Mage.cfg:54
 msgid "female^Mage"
-msgstr ""
+msgstr "Mage"
 
 #. [unit_type]: id=far_mageDeBataille, race=farengar
 #: Armies_of_Amberan\units\farengar\Mage_de_bataille.cfg:4
 msgid "Battle mage"
-msgstr ""
+msgstr "Mage de bataille"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Mage_de_bataille.cfg:56
 msgid "female^Battle mage"
-msgstr ""
+msgstr "Mage de bataille"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Maitre_arbaletrier.cfg:51
 #: Armies_of_Amberan\units\nord\Maitre_arbaletrier.cfg:54
 msgid "female^Master crossbowman"
-msgstr ""
+msgstr "Maîtresse arbalètrière"
 
 #. [unit_type]: id=far_maitreArcher, race=farengar
 #. [unit_type]: id=nor_maitreArcher, race=nordian
 #: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:4
 #: Armies_of_Amberan\units\nord\Maitre_archer.cfg:4
 msgid "Archer"
-msgstr ""
+msgstr "Maître archer"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Maitre_archer.cfg:48
 #: Armies_of_Amberan\units\nord\Maitre_archer.cfg:51
 msgid "female^Archer"
-msgstr ""
+msgstr "Maîtresse archère"
 
 #. [unit_type]: id=far_maitrePaladin, race=farengar
 #: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:4
 msgid "Master paladin"
-msgstr ""
+msgstr "Maître paladin"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:49
@@ -1618,34 +2049,35 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Capitaine_mercenaire.cfg:37
 #: Armies_of_Amberan\units\rovahr\Ecuyer.cfg:29
 msgid "longsword"
-msgstr ""
+msgstr "épée longue"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Maitre_paladin.cfg:71
 msgid "female^Master paladin"
-msgstr ""
+msgstr "Maîtresse paladine"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Noble.cfg:40
+#: Armies_of_Amberan\units\rov_elf\Noble.cfg:46
 msgid "female^Noble"
-msgstr ""
+msgstr "Noble"
 
 #. [unit_type]: id=far_paladin, race=farengar
 #: Armies_of_Amberan\units\farengar\Paladin.cfg:4
 msgid "Paladin"
-msgstr ""
+msgstr "Paladin"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Paladin.cfg:70
 msgid "female^Paladin"
-msgstr ""
+msgstr "Paladine"
 
 #. [unit_type]: id=far_paysan, race=farengar
 #. [unit_type]: id=rov_paysan, race=rovahrien
 #: Armies_of_Amberan\units\farengar\Paysan.cfg:4
 #: Armies_of_Amberan\units\rovahr\Paysan.cfg:4
 msgid "Peasant"
-msgstr ""
+msgstr "Paysan"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\farengar\Paysan.cfg:28
@@ -1654,21 +2086,30 @@ msgstr ""
 #: Armies_of_Amberan\units\federation\Sorcegarde.cfg:32
 #: Armies_of_Amberan\units\federation\Sorcegarde_d'elite.cfg:34
 #: Armies_of_Amberan\units\federation\Sorcegarde_emerite.cfg:35
+#: Armies_of_Amberan\units\gobmon\chef-de-clan.cfg:25
+#: Armies_of_Amberan\units\gobmon\meneur.cfg:25
+#: Armies_of_Amberan\units\gobmon\seigneur-de-guerre.cfg:26
 #: Armies_of_Amberan\units\nord\Garde.cfg:38
 #: Armies_of_Amberan\units\nord\Rempart.cfg:39
 #: Armies_of_Amberan\units\nord\Soldat.cfg:38
+#: Armies_of_Amberan\units\rov_elf\Champion-forestier.cfg:57
+#: Armies_of_Amberan\units\rov_elf\Chevalier-forestier.cfg:56
+#: Armies_of_Amberan\units\rov_elf\Garde-royal.cfg:32
+#: Armies_of_Amberan\units\rov_elf\Lancier.cfg:23
+#: Armies_of_Amberan\units\rov_elf\Patrouilleur-forestier.cfg:56
+#: Armies_of_Amberan\units\rov_elf\Rempart.cfg:31
 msgid "spear"
-msgstr ""
+msgstr "lance"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Paysan.cfg:47
 msgid "female^Peasant"
-msgstr ""
+msgstr "Paysanne"
 
 #. [unit_type]: id=far_roi, race=farengar
 #: Armies_of_Amberan\units\farengar\Roi.cfg:4
 msgid "Roi"
-msgstr ""
+msgstr "Roi"
 
 #. [attack]: type=blade
 #. [attack]: type=arcane
@@ -1678,18 +2119,19 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Templier_capitaine.cfg:52
 #: Armies_of_Amberan\units\rovahr\Templier_capitaine.cfg:64
 msgid "magic sword"
-msgstr ""
+msgstr "épée magique"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Roi.cfg:49
 msgid "female^Reine"
-msgstr ""
+msgstr "Reine"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Seigneur.cfg:45
 #: Armies_of_Amberan\units\federation\Seigneur.cfg:45
+#: Armies_of_Amberan\units\rov_elf\Seigneur.cfg:49
 msgid "female^Lady"
-msgstr ""
+msgstr "Dame"
 
 #. [attack]: type=impact
 #: Armies_of_Amberan\units\farengar\Sergent.cfg:33
@@ -1698,634 +2140,433 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Moine-soldat.cfg:32
 #: Armies_of_Amberan\units\rovahr\Pretre_guerrier.cfg:35
 msgid "battle mace"
-msgstr ""
+msgstr "masse d'armes"
 
 #. [female]
 #: Armies_of_Amberan\units\farengar\Sergent.cfg:42
 msgid "female^Sergeant"
-msgstr ""
-
-#. [unit_type]: id=fna_archimageDesRunes, race=farNain
-#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:4
-msgid "Runes archmage"
-msgstr ""
-
-#. [attack]: type=impact
-#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:32
-#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:31
-#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:31
-msgid "runic hammer"
-msgstr ""
-
-#. [attack]: type=fire
-#: Armies_of_Amberan\units\far_nains\Archimage-des-runes.cfg:44
-#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:43
-#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:43
-#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:39
-msgid "runic lightning"
-msgstr ""
-
-#. [unit_type]: id=fna_artificier, race=farNain
-#: Armies_of_Amberan\units\far_nains\Artificier.cfg:4
-msgid "Artificer"
-msgstr ""
-
-#. [unit_type]: id=fna_balisteDeSiege, race=mechanical
-#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:4
-msgid "Siege balista"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:28
-#: Armies_of_Amberan\units\far_nains\Baliste.cfg:27
-#: Armies_of_Amberan\units\far_nains\Bombarde.cfg:22
-#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:27
-msgid "Hatchet"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Armies_of_Amberan\units\far_nains\Baliste-de-siege.cfg:46
-#: Armies_of_Amberan\units\far_nains\Baliste.cfg:45
-#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:45
-msgid "balista"
-msgstr ""
-
-#. [unit_type]: id=fna_baliste, race=mechanical
-#: Armies_of_Amberan\units\far_nains\Baliste.cfg:4
-msgid "Balista"
-msgstr ""
-
-#. [unit_type]: id=fna_bombarde, race=mechanical
-#: Armies_of_Amberan\units\far_nains\Bombarde.cfg:4
-msgid "Bombard"
-msgstr ""
-
-#. [unit_type]: id=fna_bricoleur, race=farNain
-#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:4
-msgid "Tinker"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Armies_of_Amberan\units\far_nains\Bricoleur.cfg:34
-#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:34
-#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:35
-msgid "pistol"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\far_nains\Champion.cfg:30
-#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:29
-msgid "two handed axe"
-msgstr ""
-
-#. [unit_type]: id=fna_chevalierGriffon, race=farNain
-#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:4
-msgid "Griffin knight"
-msgstr ""
-
-#. [attack]: type=blade
-#. [attack]: type=impact
-#: Armies_of_Amberan\units\far_nains\Chevalier-griffon.cfg:28
-#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:36
-#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:28
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:29
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:37
-#: Armies_of_Amberan\units\far_nains\Oursier.cfg:36
-#: Armies_of_Amberan\units\mork-darf\Archer-sur-griffon.cfg:29
-#: Armies_of_Amberan\units\mork-darf\Chasseur-sur-griffon.cfg:28
-msgid "claws"
-msgstr ""
-
-#. [unit_type]: id=fna_chevalierOurs, race=farNain
-#: Armies_of_Amberan\units\far_nains\Chevalier-ours.cfg:4
-msgid "Bear knight"
-msgstr ""
-
-#. [unit_type]: id=fna_chevaucheurDeGriffon, race=farNain
-#: Armies_of_Amberan\units\far_nains\Chevaucheur-de-griffon.cfg:4
-msgid "Griffin rider"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\far_nains\Comte.cfg:38
-#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:37
-#: Armies_of_Amberan\units\federation\Gallowglass.cfg:28
-#: Armies_of_Amberan\units\nord\Seigneur_de_guerre.cfg:32
-msgid "battle axe"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\far_nains\Comte.cfg:56
-#: Armies_of_Amberan\units\far_nains\Seigneur.cfg:55
-#: Armies_of_Amberan\units\nord\Double-hache.cfg:40
-#: Armies_of_Amberan\units\nord\Varegue.cfg:47
-#: Armies_of_Amberan\units\nord\Viking.cfg:46
-msgid "throwing axe"
-msgstr ""
-
-#. [unit_type]: id=fna_cranequinier, race=farNain
-#: Armies_of_Amberan\units\far_nains\Cranequinier.cfg:4
-msgid "Arbalester"
-msgstr ""
-
-#. [unit_type]: id=fna_forgeronRunique, race=farNain
-#: Armies_of_Amberan\units\far_nains\Forgeron-runique.cfg:4
-msgid "Runic smith"
-msgstr ""
-
-#. [unit_type]: id=fna_gardeDArgent, race=farNain
-#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:4
-msgid "Silver guard"
-msgstr ""
-
-#. [attack]: type=blade
-#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:38
-#: Armies_of_Amberan\units\far_nains\Garde.cfg:37
-#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:29
-#: Armies_of_Amberan\units\far_nains\Thane.cfg:37
-#: Armies_of_Amberan\units\federation\Eclaireur.cfg:28
-#: Armies_of_Amberan\units\federation\Franc-archer.cfg:29
-#: Armies_of_Amberan\units\federation\Longbowman.cfg:28
-#: Armies_of_Amberan\units\federation\Porteur_de_hache.cfg:28
-#: Armies_of_Amberan\units\federation\Villageois.cfg:28
-#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:29
-#: Armies_of_Amberan\units\mork-darf\Combattant.cfg:29
-#: Armies_of_Amberan\units\mork-darf\Guerrier.cfg:29
-#: Armies_of_Amberan\units\mork-darf\Protecteur.cfg:30
-#: Armies_of_Amberan\units\mork-darf\Rodeur.cfg:35
-#: Armies_of_Amberan\units\mork-darf\Traqueur.cfg:34
-#: Armies_of_Amberan\units\nord\Destructeur.cfg:32
-#: Armies_of_Amberan\units\nord\Double-hache.cfg:31
-#: Armies_of_Amberan\units\nord\Maraudeur.cfg:31
-#: Armies_of_Amberan\units\nord\Pillard.cfg:31
-#: Armies_of_Amberan\units\nord\Ravageur.cfg:31
-#: Armies_of_Amberan\units\nord\Varegue.cfg:38
-#: Armies_of_Amberan\units\nord\Viking.cfg:37
-#: Armies_of_Amberan\units\nord\Villageois.cfg:31
-msgid "axe"
-msgstr ""
-
-#. [attack]: type=fire
-#: Armies_of_Amberan\units\far_nains\Garde-d'argent.cfg:56
-msgid "incendiary bomb"
-msgstr ""
-
-#. [unit_type]: id=fna_garde, race=farNain
-#. [unit_type]: id=nor_garde, race=nordian
-#: Armies_of_Amberan\units\far_nains\Garde.cfg:4
-#: Armies_of_Amberan\units\nord\Garde.cfg:4
-msgid "Guard"
-msgstr ""
-
-#. [unit_type]: id=fna_grandchevalierGriffon, race=farNain
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-griffon.cfg:4
-msgid "Grand griffin knight"
-msgstr ""
-
-#. [unit_type]: id=fna_GrandchevalierOurs, race=farNain
-#: Armies_of_Amberan\units\far_nains\Grand-chevalier-ours.cfg:4
-msgid "Grand bear knight"
-msgstr ""
-
-#. [unit_type]: id=fna_grandeBaliste, race=mechanical
-#: Armies_of_Amberan\units\far_nains\Grande-baliste.cfg:4
-msgid "Great balista"
-msgstr ""
-
-#. [unit_type]: id=fna_guerrierLourd, race=farNain
-#: Armies_of_Amberan\units\far_nains\Guerrier-lourd.cfg:4
-msgid "Heavy fighter"
-msgstr ""
-
-#. [unit_type]: id=fna_guerrier, race=farNain
-#. [unit_type]: id=mord_combattant, race=darfen
-#: Armies_of_Amberan\units\far_nains\Guerrier.cfg:4
-#: Armies_of_Amberan\units\mork-darf\Combattant.cfg:4
-msgid "Fighter"
-msgstr ""
-
-#. [unit_type]: id=fna_ingenieur, race=farNain
-#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:4
-msgid "Engeener"
-msgstr ""
-
-#. [attack]: type=impact
-#: Armies_of_Amberan\units\far_nains\Ingenieur.cfg:25
-#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:26
-msgid "tools"
-msgstr ""
-
-#. [unit_type]: id=fna_mageDesRunes, race=farNain
-#: Armies_of_Amberan\units\far_nains\Mage-des-runes.cfg:4
-msgid "Runes mage"
-msgstr ""
-
-#. [unit_type]: id=fna_maitreIngenieur, race=farNain
-#: Armies_of_Amberan\units\far_nains\Maitre-ingenieur.cfg:4
-msgid "Master engeener"
-msgstr ""
-
-#. [unit_type]: id=fna_oursier, race=farNain
-#: Armies_of_Amberan\units\far_nains\Oursier.cfg:4
-msgid "Bear rider"
-msgstr ""
-
-#. [unit_type]: id=fna_scribeRunique, race=farNain
-#: Armies_of_Amberan\units\far_nains\Scribe-runique.cfg:4
-msgid "Runic scribe"
-msgstr ""
-
-#. [unit_type]: id=fna_sentinelle, race=farNain
-#: Armies_of_Amberan\units\far_nains\Sentinelle.cfg:4
-msgid "Sentinel"
-msgstr ""
-
-#. [unit_type]: id=fna_thane, race=farNain
-#. [unit_type]: id=nor_thane, race=nordian
-#: Armies_of_Amberan\units\far_nains\Thane.cfg:4
-#: Armies_of_Amberan\units\nord\Thane.cfg:4
-msgid "Thane"
-msgstr ""
+msgstr "Sergeante"
 
 #. [unit_type]: id=fed_ancienDruide, race=mauvilien
 #: Armies_of_Amberan\units\federation\Ancien_druide.cfg:4
 msgid "Ancient druid"
-msgstr ""
+msgstr "Ancin druide"
 
 #. [attack]: type=impact
 #: Armies_of_Amberan\units\federation\Ancien_druide.cfg:41
 #: Armies_of_Amberan\units\federation\Druide.cfg:40
 #: Armies_of_Amberan\units\federation\Jeune_druide.cfg:40
+#: Armies_of_Amberan\units\gobmon\chamane.cfg:35
+#: Armies_of_Amberan\units\gobmon\gobelin-medecine.cfg:34
+#: Armies_of_Amberan\units\rov_elf\Archidruide.cfg:37
+#: Armies_of_Amberan\units\rov_elf\Druide.cfg:36
+#: Armies_of_Amberan\units\rov_elf\Soigneur.cfg:36
 msgid "entangle"
-msgstr ""
+msgstr "enraciner"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\federation\Ancien_druide.cfg:52
 #: Armies_of_Amberan\units\federation\Druide.cfg:51
+#: Armies_of_Amberan\units\rov_elf\Archidruide.cfg:48
+#: Armies_of_Amberan\units\rov_elf\Druide.cfg:47
 msgid "spines"
-msgstr ""
+msgstr "épines"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Ancien_druide.cfg:65
 msgid "female^Ancient druid"
-msgstr ""
+msgstr "Ancienne druidesse"
 
 #. [unit_type]: id=fed_apprentiSorcegarde, race=mauvilien
 #: Armies_of_Amberan\units\federation\Apprenti_sorcegarde.cfg:4
+#, fuzzy
 msgid "Apprentice sorcegarde"
-msgstr ""
+msgstr "Apprentit sorcegarde"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Apprenti_sorcegarde.cfg:50
+#, fuzzy
 msgid "female^Apprentice sorcegarde"
-msgstr ""
+msgstr "Apprentie sorcegarde"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\federation\Arcaniste.cfg:44
 #: Armies_of_Amberan\units\federation\Archimage.cfg:46
 #: Armies_of_Amberan\units\federation\Grand_arcaniste.cfg:44
-#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:44
-#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:65
-#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:49
+#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:47
+#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:68
+#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:52
+#, fuzzy
 msgid "lightning"
-msgstr ""
+msgstr "éclair"
 
 #. [unit_type]: id=fed_archimage, race=mauvilien
 #: Armies_of_Amberan\units\federation\Archimage.cfg:4
 msgid "Archmage"
-msgstr ""
+msgstr "Arcimage"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Archimage.cfg:87
 msgid "female^Archmage"
-msgstr ""
+msgstr "Archimage"
 
 #. [unit_type]: id=fed_chefDeClan, race=mauvilien
 #: Armies_of_Amberan\units\federation\Chef_de_clan.cfg:4
 msgid "Chieftain"
-msgstr ""
+msgstr "Chef de clan"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\federation\Chef_de_clan.cfg:32
 #: Armies_of_Amberan\units\federation\Guerrier_des_clans.cfg:28
 #: Armies_of_Amberan\units\federation\Haut-roi.cfg:32
 #: Armies_of_Amberan\units\federation\Highlander.cfg:28
+#, fuzzy
 msgid "claymore"
-msgstr ""
+msgstr "claymore"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Chef_de_clan.cfg:44
 msgid "female^Chieftain"
-msgstr ""
+msgstr "Cheffe de clan"
 
 #. [unit_type]: id=fed_chevalierArcaniste, race=mauvilien
 #: Armies_of_Amberan\units\federation\Chevalier-arcaniste.cfg:4
 msgid "Knight-arcanist"
-msgstr ""
+msgstr "Chevalier-arcaniste"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\federation\Chevalier-arcaniste.cfg:50
 #: Armies_of_Amberan\units\federation\Magister.cfg:44
 msgid "arcanic fire"
-msgstr ""
+msgstr "feu arcanique"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Chevalier-arcaniste.cfg:63
 msgid "female^Knight-arcanist"
-msgstr ""
+msgstr "Chevaleresse-arcaniste"
 
 #. [unit_type]: id=fed_chevalier, race=mauvilien
 #: Armies_of_Amberan\units\federation\Chevalier.cfg:4
+#, fuzzy
 msgid "Knight"
-msgstr ""
+msgstr "Chevalier"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Chevalier.cfg:41
 msgid "female^Knight"
-msgstr ""
+msgstr "Chevaleresse"
 
 #. [unit_type]: id=fed_druide, race=mauvilien
+#. [unit_type]: id=rel_druide, race=rovElfe
 #: Armies_of_Amberan\units\federation\Druide.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Druide.cfg:4
+#, fuzzy
 msgid "Druid"
-msgstr ""
+msgstr "Druide"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Druide.cfg:64
 msgid "female^Druid"
-msgstr ""
+msgstr "Druidesse"
 
 #. [unit_type]: id=fed_eclaireur, race=mauvilien
 #. [unit_type]: id=gal_eclaireur, race=galien
+#. [unit_type]: id=rel_eclaireur, race=rovElfe
 #: Armies_of_Amberan\units\federation\Eclaireur.cfg:4
 #: Armies_of_Amberan\units\galianos\Eclaireur.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Eclaireur.cfg:4
 msgid "Scout"
-msgstr ""
+msgstr "Éclaireur"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Eclaireur.cfg:47
+#: Armies_of_Amberan\units\rov_elf\Eclaireur.cfg:50
 msgid "female^Scout"
-msgstr ""
+msgstr "Éclaireuse"
 
 #. [unit_type]: id=fed_etudiant, race=mauvilien
 #: Armies_of_Amberan\units\federation\Etudiant.cfg:4
 msgid "Student"
-msgstr ""
+msgstr "Étudiant"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Etudiant.cfg:50
 msgid "female^Student"
-msgstr ""
+msgstr "Étudiante"
 
 #. [unit_type]: id=fed_francArcher, race=mauvilien
 #: Armies_of_Amberan\units\federation\Franc-archer.cfg:4
 msgid "Free archer"
-msgstr ""
+msgstr "Franc archer"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Franc-archer.cfg:48
 msgid "female^Free archer"
-msgstr ""
+msgstr "Franc archère"
 
 #. [unit_type]: id=fed_gallowglass, race=mauvilien
 #: Armies_of_Amberan\units\federation\Gallowglass.cfg:4
 msgid "Gallowglass"
-msgstr ""
+msgstr "Gallowglass"
 
 #. [female]
-#: Armies_of_Amberan\units\federation\Gallowglass.cfg:40
+#: Armies_of_Amberan\units\federation\Gallowglass.cfg:41
+#, fuzzy
 msgid "female^Gallowglass"
-msgstr ""
+msgstr "Gallowglass"
 
 #. [unit_type]: id=fed_grandArcaniste, race=mauvilien
 #: Armies_of_Amberan\units\federation\Grand_arcaniste.cfg:4
 msgid "Grand arcanist"
-msgstr ""
+msgstr "Grand arcaniste"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Grand_arcaniste.cfg:85
+#, fuzzy
 msgid "female^Grand arcanist"
-msgstr ""
+msgstr "Grande arcaniste"
 
 #. [unit_type]: id=fed_guerrierMage, race=mauvilien
 #: Armies_of_Amberan\units\federation\Guerrier-mage.cfg:4
+#, fuzzy
 msgid "Warrior-mage"
-msgstr ""
+msgstr "Mage-guerrier"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Guerrier-mage.cfg:58
 msgid "female^Warrior-mage"
-msgstr ""
+msgstr "Mage-guerrière"
 
 #. [unit_type]: id=fed_guerrier, race=mauvilien
 #: Armies_of_Amberan\units\federation\Guerrier_des_clans.cfg:4
+#, fuzzy
 msgid "Clans warrior"
-msgstr ""
+msgstr "Guerrier des clans"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Guerrier_des_clans.cfg:40
+#, fuzzy
 msgid "female^Clans warrior"
-msgstr ""
+msgstr "Guerrière des clans"
 
 #. [unit_type]: id=fed_hautRoi, race=mauvilien
 #. [unit_type]: id=nor_hautRoi, race=nordian
 #: Armies_of_Amberan\units\federation\Haut-roi.cfg:4
 #: Armies_of_Amberan\units\nord\Haut_roi.cfg:4
 msgid "High king"
-msgstr ""
+msgstr "haut roi"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Haut-roi.cfg:41
 #: Armies_of_Amberan\units\nord\Haut_roi.cfg:64
 msgid "female^High queen"
-msgstr ""
+msgstr "Haute reine"
 
 #. [unit_type]: id=fed_highlander, race=mauvilien
 #: Armies_of_Amberan\units\federation\Highlander.cfg:4
 msgid "Highlander"
-msgstr ""
+msgstr "Highlander"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Highlander.cfg:40
 msgid "female^Highlander"
-msgstr ""
+msgstr "Highlander"
 
 #. [unit_type]: id=fed_jeuneDruide, race=mauvilien
 #: Armies_of_Amberan\units\federation\Jeune_druide.cfg:4
 msgid "Young druid"
-msgstr ""
+msgstr "Jeune druide"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Jeune_druide.cfg:52
 msgid "female^Young druid"
-msgstr ""
+msgstr "Jeune druidesse"
 
 #. [unit_type]: id=fed_longbowman, race=mauvilien
 #: Armies_of_Amberan\units\federation\Longbowman.cfg:4
 msgid "Clans longbowman"
-msgstr ""
+msgstr "Archer des clans"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Longbowman.cfg:47
 msgid "female^Clans longbowman"
-msgstr ""
+msgstr "Archère des clans"
 
 #. [unit_type]: id=fed_mageLame, race=mauvilien
 #: Armies_of_Amberan\units\federation\Mage-lame.cfg:4
+#, fuzzy
 msgid "Mage-blade"
-msgstr ""
+msgstr "Mage-lame"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Mage-lame.cfg:53
 msgid "female^Mage-blade"
-msgstr ""
+msgstr "Mage-lame"
 
 #. [unit_type]: id=fed_magister, race=mauvilien
+#. [unit_type]: id=rel_magister, race=rovElfe
 #: Armies_of_Amberan\units\federation\Magister.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Magistere.cfg:4
 msgid "Magister"
-msgstr ""
+msgstr "Magistère"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Magister.cfg:57
+#: Armies_of_Amberan\units\rov_elf\Magistere.cfg:46
 msgid "female^Magister"
-msgstr ""
+msgstr "Magistère"
 
 #. [unit_type]: id=fed_piquier, race=mauvilien
 #: Armies_of_Amberan\units\federation\Piquier_des_clans.cfg:4
 msgid "Clans pikeman"
-msgstr ""
+msgstr "Piquier des clans"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Piquier_des_clans.cfg:40
 msgid "female^Clans pikeman"
-msgstr ""
+msgstr "Piquière des clans"
 
 #. [unit_type]: id=fed_piquierLourd, race=mauvilien
 #: Armies_of_Amberan\units\federation\Piquier_lourd.cfg:4
 msgid "Heavy pikeman"
-msgstr ""
+msgstr "Piquier lourd"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Piquier_lourd.cfg:43
 msgid "female^Heavy pikeman"
-msgstr ""
+msgstr "Piquière lourde"
 
 #. [unit_type]: id=fed_porteurDeHache, race=mauvilien
 #: Armies_of_Amberan\units\federation\Porteur_de_hache.cfg:4
 msgid "Axe wielder"
-msgstr ""
+msgstr "Manieur de hache"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Porteur_de_hache.cfg:40
 msgid "female^Axe wielder"
-msgstr ""
+msgstr "Manieuse de hache"
 
 #. [unit_type]: id=fed_schiltron, race=mauvilien
 #: Armies_of_Amberan\units\federation\Schiltron.cfg:4
+#, fuzzy
 msgid "Schiltron"
-msgstr ""
+msgstr "Schiltron"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Schiltron.cfg:44
+#, fuzzy
 msgid "female^Schiltron"
-msgstr ""
+msgstr "Schiltron"
 
 #. [unit_type]: id=fed_sorcegarde, race=mauvilien
 #: Armies_of_Amberan\units\federation\Sorcegarde.cfg:4
+#, fuzzy
 msgid "Sorcegarde"
-msgstr ""
+msgstr "Sorcegarde"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Sorcegarde.cfg:54
 msgid "female^Sorcegarde"
-msgstr ""
+msgstr "Sorcegarde"
 
 #. [unit_type]: id=fed_sorcegardeDElite, race=mauvilien
 #: Armies_of_Amberan\units\federation\Sorcegarde_d'elite.cfg:4
+#, fuzzy
 msgid "Elite sorcegarde"
-msgstr ""
+msgstr "Sorcegarde d’élite"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Sorcegarde_d'elite.cfg:56
 msgid "female^Elite sorcegarde"
-msgstr ""
+msgstr "Sorcegarde d’élite"
 
 #. [unit_type]: id=fed_sorcegardeEmerite, race=mauvilien
 #: Armies_of_Amberan\units\federation\Sorcegarde_emerite.cfg:4
+#, fuzzy
 msgid "Elder sorcegarde"
-msgstr ""
+msgstr "Ancien sorcegarde"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Sorcegarde_emerite.cfg:57
 msgid "female^Elder sorcegarde"
-msgstr ""
+msgstr "Ancienne sorcegarde"
 
 #. [unit_type]: id=fed_villageois, race=mauvilien
 #. [unit_type]: id=nor_villageois, race=nordian
 #: Armies_of_Amberan\units\federation\Villageois.cfg:4
 #: Armies_of_Amberan\units\nord\Villageois.cfg:4
 msgid "Villager"
-msgstr ""
+msgstr "Villageois"
 
 #. [female]
 #: Armies_of_Amberan\units\federation\Villageois.cfg:37
 #: Armies_of_Amberan\units\nord\Villageois.cfg:40
 msgid "female^Villager"
-msgstr ""
+msgstr "Villageoise"
 
 #. [unit_type]: id=gal_alchimiste, race=galien
 #: Armies_of_Amberan\units\galianos\Alchimiste.cfg:4
 msgid "Alchemist"
-msgstr ""
+msgstr "Alichimiste"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\galianos\Alchimiste.cfg:39
-msgid "falme-thrower"
-msgstr ""
+#: Armies_of_Amberan\units\galianos\Maitre_pyromancien.cfg:41
+#: Armies_of_Amberan\units\galianos\Pyromancien.cfg:40
+#, fuzzy
+msgid "flame-thrower"
+msgstr "lance-flammes"
 
 #. [unit_type]: id=gal_apothicaire, race=galien
 #: Armies_of_Amberan\units\galianos\Apothicaire.cfg:4
 msgid "Apothecary"
-msgstr ""
+msgstr "Apothicaire"
 
 #. [unit_type]: id=gal_arbaletrierAstraidien, race=galien
 #: Armies_of_Amberan\units\galianos\Arbaletrier_astraidien.cfg:4
+#, fuzzy
 msgid "Astraidian crossbowman"
-msgstr ""
+msgstr "Arbalétrier astraïdien"
 
 #. [unit_type]: id=gal_arbaletrierAvecPavois, race=galien
 #: Armies_of_Amberan\units\galianos\Arbaletrier_avec_pavois.cfg:4
+#, fuzzy
 msgid "Crossbowman with bulkward"
-msgstr ""
+msgstr "Arbalétrier avec pavois"
 
 #. [unit_type]: id=gal_arbaletrierMonte, race=galien
 #: Armies_of_Amberan\units\galianos\Arbaletrier_monte.cfg:4
+#, fuzzy
 msgid "Mounted crossbowman"
-msgstr ""
+msgstr "Arbalétrier monté"
 
 #. [unit_type]: id=gal_condotierre, race=galien
 #: Armies_of_Amberan\units\galianos\Condotierre.cfg:4
+#, fuzzy
 msgid "Condotierre"
-msgstr ""
+msgstr "Condotierre"
 
 #. [unit_type]: id=gal_condotierreAPieds, race=galien
 #: Armies_of_Amberan\units\galianos\Condotierre_a_pieds.cfg:4
 msgid "Condotierre on foots"
-msgstr ""
+msgstr "Condotierre à pieds"
 
 #. [unit_type]: id=gal_epeisteLourd, race=galien
 #: Armies_of_Amberan\units\galianos\Epeiste_lourd.cfg:4
+#, fuzzy
 msgid "Elite swordman"
-msgstr ""
+msgstr "Épéiste d’élite"
 
 #. [unit_type]: id=gal_escorteur, race=galien
 #: Armies_of_Amberan\units\galianos\Escorteur.cfg:4
 msgid "Escort"
-msgstr ""
+msgstr "Escorteur"
 
 #. [unit_type]: id=gal_escarmoucheur, race=galien
 #: Armies_of_Amberan\units\galianos\Escramoucheur.cfg:4
+#, fuzzy
 msgid "Skirmisher"
-msgstr ""
+msgstr "Escarmoucheur"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\galianos\Escramoucheur.cfg:38
@@ -2334,246 +2575,337 @@ msgstr ""
 #: Armies_of_Amberan\units\nord\Rempart.cfg:48
 #: Armies_of_Amberan\units\nord\Soldat.cfg:47
 msgid "javelin"
-msgstr ""
+msgstr "javelot"
 
 #. [unit_type]: id=gal_fantassinLourd, race=galien
 #: Armies_of_Amberan\units\galianos\Fantassin_lourd.cfg:4
+#, fuzzy
 msgid "Heavy footman"
-msgstr ""
+msgstr "Fantassin lourd"
 
 #. [unit_type]: id=gal_gardeCivil, race=galien
 #: Armies_of_Amberan\units\galianos\Garde_civil.cfg:4
+#, fuzzy
 msgid "Civil guard"
-msgstr ""
+msgstr "Garde civil"
 
 #. [unit_type]: id=gal_gardeForestier, race=galien
 #. [unit_type]: id=mord_rodeur, race=darfen
+#. [unit_type]: id=rel_ranger, race=rovElfe
 #: Armies_of_Amberan\units\galianos\Garde_forestier.cfg:4
 #: Armies_of_Amberan\units\mork-darf\Rodeur.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Ranger.cfg:4
+#, fuzzy
 msgid "Ranger"
-msgstr ""
+msgstr "Rôdeur"
 
 #. [unit_type]: id=gal_gendarme, race=galien
 #: Armies_of_Amberan\units\galianos\Gendarme.cfg:4
+#, fuzzy
 msgid "Gendarme"
-msgstr ""
+msgstr "Gendarme"
 
 #. [unit_type]: id=gal_gendarmeAPieds, race=galien
 #: Armies_of_Amberan\units\galianos\Gendarme_a_pieds.cfg:4
 msgid "Gendarme on foots"
-msgstr ""
+msgstr "Gendarme à pieds"
 
 #. [unit_type]: id=gal_herboriste, race=galien
 #: Armies_of_Amberan\units\galianos\Herboriste.cfg:4
 msgid "Herborist"
-msgstr ""
+msgstr "Herboriste"
 
 #. [unit_type]: id=gal_hussard, race=galien
 #: Armies_of_Amberan\units\galianos\Hussard.cfg:4
 msgid "Hussar"
-msgstr ""
+msgstr "Hussard"
 
 #. [unit_type]: id=gal_imperator, race=galien
 #: Armies_of_Amberan\units\galianos\Imperator.cfg:4
 msgid "Imperator"
-msgstr ""
+msgstr "Imperator"
 
 #. [unit_type]: id=gal_javeleniste, race=galien
 #: Armies_of_Amberan\units\galianos\Javeleniste.cfg:4
+#, fuzzy
 msgid "Javelinist"
-msgstr ""
+msgstr "Javeleniste"
 
 #. [unit_type]: id=gal_javelenisteDElite, race=galien
 #: Armies_of_Amberan\units\galianos\Javeleniste_d'elite.cfg:4
+#, fuzzy
 msgid "Elite javelinist"
-msgstr ""
+msgstr "Javeleniste d’élite"
 
 #. [unit_type]: id=gal_lancierDElite, race=galien
 #: Armies_of_Amberan\units\galianos\Lancier_d'elite.cfg:4
 msgid "Elite lancer"
-msgstr ""
+msgstr "Lancier d’élite"
 
 #. [unit_type]: id=gal_maitrePyromancien, race=galien
 #: Armies_of_Amberan\units\galianos\Maitre_pyromancien.cfg:4
+#, fuzzy
 msgid "Master pyromancer"
-msgstr ""
-
-#. [attack]: type=fire
-#: Armies_of_Amberan\units\galianos\Maitre_pyromancien.cfg:41
-#: Armies_of_Amberan\units\galianos\Pyromancien.cfg:40
-msgid "flame-thrower"
-msgstr ""
+msgstr "Maître pyromancien"
 
 #. [unit_type]: id=gal_milicien, race=galien
 #: Armies_of_Amberan\units\galianos\Milicien.cfg:4
+#, fuzzy
 msgid "Militia"
-msgstr ""
+msgstr "Militien"
 
 #. [unit_type]: id=gal_piquierLourd, race=galien
 #: Armies_of_Amberan\units\galianos\Piquier_lourd.cfg:4
 msgid "Heavy pikemen"
-msgstr ""
+msgstr "Piquier lourd"
 
 #. [unit_type]: id=gal_pyromancien, race=galien
 #: Armies_of_Amberan\units\galianos\Pyromancien.cfg:4
 msgid "Pyromancer"
-msgstr ""
+msgstr "Pyromancien"
 
 #. [unit_type]: id=gal_rodeur, race=galien
 #: Armies_of_Amberan\units\galianos\Rodeur.cfg:4
+#, fuzzy
 msgid "Veteran ranger"
-msgstr ""
+msgstr "Rôdeur vétéran"
 
 #. [unit_type]: id=gal_spadassin, race=galien
 #: Armies_of_Amberan\units\galianos\Spadassin.cfg:4
 msgid "Spadassin"
-msgstr ""
+msgstr "Spadassin"
+
+#. [unit_type]: id=gob_archerLoup, race=gobmon
+#: Armies_of_Amberan\units\gobmon\archer-loup.cfg:4
+msgid "Wolf Archer"
+msgstr "Archer sur loup"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\gobmon\archer-loup.cfg:22
+#: Armies_of_Amberan\units\gobmon\champion-loup.cfg:23
+#: Armies_of_Amberan\units\gobmon\monteur-de-loup.cfg:22
+msgid "fangs"
+msgstr "Griffes"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\gobmon\archer-loup.cfg:31
+#: Armies_of_Amberan\units\gobmon\champion-loup.cfg:32
+#: Armies_of_Amberan\units\gobmon\chasseur.cfg:31
+#: Armies_of_Amberan\units\gobmon\monteur-de-loup.cfg:31
+msgid "shortbow"
+msgstr "arc court"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\gobmon\archer.cfg:23
+#: Armies_of_Amberan\units\gobmon\chasseur.cfg:22
+msgid "knife"
+msgstr "couteau"
+
+#. [unit_type]: id=gob_assassin, race=gobmon
+#: Armies_of_Amberan\units\gobmon\assassin.cfg:4
+msgid "Assassin"
+msgstr "Assassin"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\gobmon\assassin.cfg:38
+#: Armies_of_Amberan\units\gobmon\sournois.cfg:37
+msgid "throwing knives"
+msgstr "couteaux de lancer"
+
+#. [unit_type]: id=gob_chamane, race=gobmon
+#: Armies_of_Amberan\units\gobmon\chamane.cfg:4
+msgid "Shaman"
+msgstr "Chamane"
+
+#. [unit_type]: id=gob_championLoup, race=gobmon
+#: Armies_of_Amberan\units\gobmon\champion-loup.cfg:4
+msgid "Wolf Champion"
+msgstr "Champion sur loup"
+
+#. [unit_type]: id=gob_chasseur, race=gobmon
+#. [unit_type]: id=mord_chasseur, race=darfen
+#. [unit_type]: id=nor_chasseur, race=nordian
+#: Armies_of_Amberan\units\gobmon\chasseur.cfg:4
+#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:4
+#: Armies_of_Amberan\units\nord\Chasseur.cfg:4
+msgid "Hunter"
+msgstr "Chasseur"
+
+#. [unit_type]: id=gob_chefDeClan, race=gobmon
+#: Armies_of_Amberan\units\gobmon\chef-de-clan.cfg:4
+msgid "Clan chief"
+msgstr "Chef de clan"
+
+#. [unit_type]: id=gob_gobelinMedecine, race=gobmon
+#: Armies_of_Amberan\units\gobmon\gobelin-medecine.cfg:4
+msgid "Medicine Goblin"
+msgstr "Gobelin-médecine"
+
+#. [unit_type]: id=gob_guerrier, race=gobmon
+#. [unit_type]: id=mord_guerrier, race=darfen
+#. [unit_type]: id=nor_guerrier, race=nordian
+#: Armies_of_Amberan\units\gobmon\guerrier.cfg:4
+#: Armies_of_Amberan\units\mork-darf\Guerrier.cfg:4
+#: Armies_of_Amberan\units\nord\Guerrier.cfg:4
+msgid "Warrior"
+msgstr "Guerrier"
+
+#. [unit_type]: id=gob_meneur, race=gobmon
+#: Armies_of_Amberan\units\gobmon\meneur.cfg:4
+msgid "Leader"
+msgstr "Meneur"
+
+#. [unit_type]: id=gob_monteurDeLoup, race=gobmon
+#: Armies_of_Amberan\units\gobmon\monteur-de-loup.cfg:4
+msgid "Wolf Rider"
+msgstr "Chevaucheur de loup"
+
+#. [unit_type]: id=gob_seigneurDeGuerre, race=gobmon
+#. [unit_type]: id=nor_seigneurDeGuerre, race=nordian
+#: Armies_of_Amberan\units\gobmon\seigneur-de-guerre.cfg:4
+#: Armies_of_Amberan\units\nord\Seigneur_de_guerre.cfg:4
+msgid "Warlord"
+msgstr "Seigneur de geurre"
+
+#. [unit_type]: id=gob_sournois, race=gobmon
+#: Armies_of_Amberan\units\gobmon\sournois.cfg:4
+msgid "Sneaky"
+msgstr "Sournois"
 
 #. [unit_type]: id=mord_archerSurGriffon, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Archer-sur-griffon.cfg:4
 msgid "Archer on griffin"
-msgstr ""
+msgstr "Archer sur griffon"
 
 #. [unit_type]: id=mord_arquebusierVeteran, race=morken
 #: Armies_of_Amberan\units\mork-darf\Arquebusier-veteran.cfg:4
 msgid "Veteran handgunner"
-msgstr ""
+msgstr "Arquebusier vétéran"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\mork-darf\Capitaine.cfg:32
 #: Armies_of_Amberan\units\mork-darf\Commandant.cfg:33
 #: Armies_of_Amberan\units\mork-darf\Sergent.cfg:32
 msgid "falchion"
-msgstr ""
+msgstr "fauchon"
 
 #. [unit_type]: id=mord_chamane, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Chamane.cfg:4
 msgid "female^Shaman"
-msgstr ""
+msgstr "Chamane"
 
 #. [attack]: type=cold
-#: Armies_of_Amberan\units\mork-darf\Chamane.cfg:34
-#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:31
-#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:52
-#: Armies_of_Amberan\units\mork-darf\Guerisseuse.cfg:34
-#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:36
-#: Armies_of_Amberan\units\mork-darf\Sage.cfg:38
+#: Armies_of_Amberan\units\mork-darf\Chamane.cfg:37
+#: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:34
+#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:55
+#: Armies_of_Amberan\units\mork-darf\Guerisseuse.cfg:37
+#: Armies_of_Amberan\units\mork-darf\Magicienne.cfg:39
+#: Armies_of_Amberan\units\mork-darf\Sage.cfg:41
 msgid "frozen wind"
-msgstr ""
+msgstr "vent gelé"
 
 #. [unit_type]: id=mord_chasseurSurGriffon, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Chasseur-sur-griffon.cfg:4
 msgid "Hunter on griffin"
-msgstr ""
-
-#. [unit_type]: id=mord_chasseur, race=darfen
-#. [unit_type]: id=nor_chasseur, race=nordian
-#: Armies_of_Amberan\units\mork-darf\Chasseur.cfg:4
-#: Armies_of_Amberan\units\nord\Chasseur.cfg:4
-msgid "Hunter"
-msgstr ""
+msgstr "Chasseur su griffon"
 
 #. [unit_type]: id=mord_cuirassier, race=morken
 #: Armies_of_Amberan\units\mork-darf\Cuirassier.cfg:4
 msgid "Cuirassier"
-msgstr ""
+msgstr "Cuirassier"
 
 #. [unit_type]: id=mord_ensorcelleuse, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Ensorcelleuse.cfg:4
 msgid "female^Sorceress"
-msgstr ""
+msgstr "Encorceleuse"
 
 #. [unit_type]: id=mord_fantassin, race=morken
 #: Armies_of_Amberan\units\mork-darf\Fantassin.cfg:4
 msgid "Footdwarf"
-msgstr ""
+msgstr "Fantassin"
 
 #. [unit_type]: id=mord_grandeMagicienne, race=darfen
 #. [female]
 #: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:4
 #: Armies_of_Amberan\units\rovahr\Grand_mage.cfg:55
 msgid "female^Grand mage"
-msgstr ""
+msgstr "Grande mage"
 
 #. [attack]: type=impact
 #. [attack]: type=fire
-#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:28
-#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:40
+#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:31
+#: Armies_of_Amberan\units\mork-darf\Grande-magicienne.cfg:43
 msgid "thunder mace"
-msgstr ""
+msgstr "mace tonerre"
 
 #. [unit_type]: id=mord_guerisseuse, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Guerisseuse.cfg:4
 msgid "female^Healer"
-msgstr ""
+msgstr "Soigneuse"
 
 #. [attack]: type=impact
-#: Armies_of_Amberan\units\mork-darf\Guerisseuse.cfg:25
-#: Armies_of_Amberan\units\mork-darf\Sage.cfg:26
+#: Armies_of_Amberan\units\mork-darf\Guerisseuse.cfg:28
+#: Armies_of_Amberan\units\mork-darf\Sage.cfg:29
+#, fuzzy
 msgid "runic staff"
-msgstr ""
-
-#. [unit_type]: id=mord_guerrier, race=darfen
-#. [unit_type]: id=nor_guerrier, race=nordian
-#: Armies_of_Amberan\units\mork-darf\Guerrier.cfg:4
-#: Armies_of_Amberan\units\nord\Guerrier.cfg:4
-msgid "Warrior"
-msgstr ""
+msgstr "bâton runique"
 
 #. [unit_type]: id=mord_martelier, race=morken
 #: Armies_of_Amberan\units\mork-darf\Martelier.cfg:4
 msgid "Hammerer"
-msgstr ""
+msgstr "Martelier"
 
 #. [unit_type]: id=mord_mousquetaire, race=morken
 #: Armies_of_Amberan\units\mork-darf\Mousquetaire.cfg:4
 msgid "Muskeeter"
-msgstr ""
+msgstr "Mousquetaire"
 
 #. [unit_type]: id=mord_protecteur, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Protecteur.cfg:4
 msgid "Warden"
-msgstr ""
+msgstr "Gardien"
 
 #. [attack]: type=blade
-#: Armies_of_Amberan\units\mork-darf\Protecteur.cfg:39
+#: Armies_of_Amberan\units\mork-darf\Protecteur.cfg:42
 msgid "hatchet"
-msgstr ""
+msgstr "hachette"
 
 #. [unit_type]: id=mord_sage, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Sage.cfg:4
 msgid "female^Wise"
-msgstr ""
+msgstr "Sage"
 
 #. [unit_type]: id=mord_sergent, race=morken
 #: Armies_of_Amberan\units\mork-darf\Sergent.cfg:4
 msgid "Sergent"
-msgstr ""
+msgstr "Sergent"
 
 #. [unit_type]: id=mord_soldatLourd, race=morken
 #: Armies_of_Amberan\units\mork-darf\Soldat-lourd.cfg:4
 msgid "Shock soldier"
-msgstr ""
+msgstr "Soldat de choc"
 
 #. [unit_type]: id=mord_traqueur, race=darfen
 #: Armies_of_Amberan\units\mork-darf\Traqueur.cfg:4
 msgid "Trapper"
-msgstr ""
+msgstr "Trappeur"
 
 #. [unit_type]: id=mord_veteran, race=morken
 #: Armies_of_Amberan\units\mork-darf\Veteran.cfg:4
+#, fuzzy
 msgid "Veteran"
-msgstr ""
+msgstr "Vétéran"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Arbaletrier_lourd.cfg:53
+#, fuzzy
 msgid "female^Heavy crossbowman"
-msgstr ""
+msgstr "Arbalétrière lourde"
 
 #. [unit_type]: id=nor_archerMonte, race=nordian
 #: Armies_of_Amberan\units\nord\Archer_monte.cfg:4
 msgid "Mounted bowman"
-msgstr ""
+msgstr "Archer monté"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\nord\Archer_monte.cfg:31
@@ -2583,349 +2915,517 @@ msgstr ""
 #: Armies_of_Amberan\units\nord\Huskarl_monte.cfg:40
 #: Armies_of_Amberan\units\nord\Maitre_archer_monte.cfg:32
 msgid "norse axe"
-msgstr ""
+msgstr "hache longue nordique"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Archer_monte.cfg:50
 msgid "female^Mounted bowman"
-msgstr ""
+msgstr "Archère montée"
 
 #. [unit_type]: id=nor_archer, race=nordian
 #: Armies_of_Amberan\units\nord\Archer_nordique.cfg:4
+#, fuzzy
 msgid "Nordic bowman"
-msgstr ""
+msgstr "Archer nordique"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Archer_nordique.cfg:47
 msgid "female^Nordic bowman"
-msgstr ""
+msgstr "Archère nordique"
 
 #. [unit_type]: id=nor_berserker, race=nordian
 #: Armies_of_Amberan\units\nord\Berserker.cfg:4
 msgid "Berserker"
-msgstr ""
+msgstr "Berserker"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\nord\Berserker.cfg:32
 msgid "berserk frenzy"
-msgstr ""
+msgstr "frénésie berserk"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Berserker.cfg:44
 msgid "female^Berserker"
-msgstr ""
+msgstr "Berserker"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Cavalier.cfg:40
+#: Armies_of_Amberan\units\rov_elf\Cavalier.cfg:50
 msgid "female^Rider"
-msgstr ""
+msgstr "Cavalière"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\nord\Chasseur.cfg:40
+#, fuzzy
 msgid "hunting bow"
-msgstr ""
+msgstr "arc de chasse"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Chasseur.cfg:50
 msgid "female^Hunter"
-msgstr ""
+msgstr "Chasseresse"
 
 #. [unit_type]: id=nor_chevalier, race=nordian
 #: Armies_of_Amberan\units\nord\Chevalier_nordique.cfg:4
 msgid "Nordic knight"
-msgstr ""
+msgstr "Chevalier nordique"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\nord\Chevalier_nordique.cfg:41
 msgid "hache nordique"
-msgstr ""
+msgstr "hache longue nordique"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Chevalier_nordique.cfg:53
 msgid "female^Nordic knight"
-msgstr ""
+msgstr "Chevaleresse nordique"
 
 #. [unit_type]: id=nor_destructeur, race=nordian
 #: Armies_of_Amberan\units\nord\Destructeur.cfg:4
 msgid "Destructive"
-msgstr ""
+msgstr "Ravageur"
 
 #. [attack]: type=fire
 #: Armies_of_Amberan\units\nord\Destructeur.cfg:41
 #: Armies_of_Amberan\units\nord\Ravageur.cfg:40
+#, fuzzy
 msgid "torch"
-msgstr ""
+msgstr "troche"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Destructeur.cfg:51
 msgid "female^Destructive"
-msgstr ""
+msgstr "Ravageuse"
 
 #. [unit_type]: id=nor_doubleHache, race=nordian
 #: Armies_of_Amberan\units\nord\Double-hache.cfg:4
+#, fuzzy
 msgid "Double-axe"
-msgstr ""
+msgstr "Double-hache"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Double-hache.cfg:50
 msgid "female^Double-axe"
-msgstr ""
+msgstr "Double-hache"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Garde.cfg:47
 msgid "female^Guard"
-msgstr ""
+msgstr "Garde"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Guerrier.cfg:56
 msgid "female^Warrior"
-msgstr ""
+msgstr "Guerrière"
 
 #. [unit_type]: id=nor_huskarl, race=nordian
 #: Armies_of_Amberan\units\nord\Huskarl.cfg:4
 msgid "Huskarl"
-msgstr ""
+msgstr "Huskarl"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Huskarl.cfg:56
 msgid "female^Huskarl"
-msgstr ""
+msgstr "Huskarl"
 
 #. [unit_type]: id=nor_huskarlMonte, race=nordian
 #: Armies_of_Amberan\units\nord\Huskarl_monte.cfg:4
 msgid "Mounted huskarl"
-msgstr ""
+msgstr "Huskarl monté"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Huskarl_monte.cfg:52
 msgid "female^Mounted huskarl"
-msgstr ""
+msgstr "Huskarl montée"
 
 #. [unit_type]: id=nor_jarl, race=nordian
 #: Armies_of_Amberan\units\nord\Jarl.cfg:4
 msgid "Jarl"
-msgstr ""
+msgstr "Jarl"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Jarl.cfg:58
 msgid "female^Jarl"
-msgstr ""
+msgstr "Jarl"
 
 #. [unit_type]: id=nor_maitreArcherMonte, race=nordian
 #: Armies_of_Amberan\units\nord\Maitre_archer_monte.cfg:4
 msgid "Mounted archer"
-msgstr ""
+msgstr "Grand archer monté"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Maitre_archer_monte.cfg:51
 msgid "female^Mounted archer"
-msgstr ""
+msgstr "Grande archère montée"
 
 #. [unit_type]: id=nor_maraudeur, race=nordian
 #: Armies_of_Amberan\units\nord\Maraudeur.cfg:4
 msgid "Maraudeur"
-msgstr ""
+msgstr "Maraudeur"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Maraudeur.cfg:40
+#, fuzzy
 msgid "female^Maraudeur"
-msgstr ""
+msgstr "Maraudeuse"
 
 #. [unit_type]: id=nor_pillard, race=nordian
 #: Armies_of_Amberan\units\nord\Pillard.cfg:4
+#, fuzzy
 msgid "Pluderer"
-msgstr ""
+msgstr "Pillard"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Pillard.cfg:40
+#, fuzzy
 msgid "female^Pluderer"
-msgstr ""
+msgstr "Pillarde"
 
 #. [unit_type]: id=nor_ravageur, race=nordian
 #: Armies_of_Amberan\units\nord\Ravageur.cfg:4
 msgid "Devastating"
-msgstr ""
+msgstr "Devastateur"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Ravageur.cfg:50
 msgid "female^Devastating"
-msgstr ""
+msgstr "Devatatrice"
 
 #. [unit_type]: id=nor_rempart, race=nordian
+#. [unit_type]: id=rel_rempart, race=rovElfe
 #: Armies_of_Amberan\units\nord\Rempart.cfg:4
+#: Armies_of_Amberan\units\rov_elf\Rempart.cfg:4
 msgid "Rempart"
-msgstr ""
+msgstr "Rempart"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Rempart.cfg:58
+#: Armies_of_Amberan\units\rov_elf\Rempart.cfg:43
 msgid "female^Rempart"
-msgstr ""
-
-#. [unit_type]: id=nor_seigneurDeGuerre, race=nordian
-#: Armies_of_Amberan\units\nord\Seigneur_de_guerre.cfg:4
-msgid "Warlord"
-msgstr ""
+msgstr "rempart"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Seigneur_de_guerre.cfg:41
 msgid "female^Warlady"
-msgstr ""
+msgstr "Dame de guerre"
 
 #. [unit_type]: id=nor_soldat, race=nordian
 #: Armies_of_Amberan\units\nord\Soldat.cfg:4
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Soldat.cfg:57
 msgid "female^Soldier"
-msgstr ""
+msgstr "Soldate"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Thane.cfg:56
 msgid "female^Thane"
-msgstr ""
+msgstr "Thane"
 
 #. [unit_type]: id=nor_varegue, race=nordian
 #: Armies_of_Amberan\units\nord\Varegue.cfg:4
 msgid "Varangian"
-msgstr ""
+msgstr "Varègue"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Varegue.cfg:57
+#, fuzzy
 msgid "female^Varangian"
-msgstr ""
+msgstr "Varègue"
 
 #. [unit_type]: id=nor_viking, race=nordian
 #: Armies_of_Amberan\units\nord\Viking.cfg:4
+#, fuzzy
 msgid "Viking"
-msgstr ""
+msgstr "Viking"
 
 #. [unit_type]: id=nor_viking, race=nordian
 #: Armies_of_Amberan\units\nord\Viking.cfg:16
 msgid "description to comr"
-msgstr ""
+msgstr "description à venir"
 
 #. [female]
 #: Armies_of_Amberan\units\nord\Viking.cfg:56
+#, fuzzy
 msgid "female^Viking"
-msgstr ""
+msgstr "Viking"
+
+#. [unit_type]: id=rel_archerDeGuerre, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Archer-de-guerre.cfg:4
+msgid "War archer"
+msgstr "Archer de guerre"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Archer-de-guerre.cfg:45
+msgid "female^War archer"
+msgstr "Archère de guerre"
+
+#. [unit_type]: id=rel_archidruide, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Archidruide.cfg:4
+msgid "Archdruid"
+msgstr "Archidruide"
+
+#. [unit_type]: id=rel_championForestier, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Champion-forestier.cfg:4
+msgid "Forest champion"
+msgstr "Champion forestier"
+
+#. [attack]: type=impact
+#: Armies_of_Amberan\units\rov_elf\Champion-forestier.cfg:68
+#: Armies_of_Amberan\units\rov_elf\Chevalier-forestier.cfg:67
+msgid "antlers"
+msgstr "bois"
+
+#. [unit_type]: id=rel_chevalierForestier, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Chevalier-forestier.cfg:4
+msgid "Forest knight"
+msgstr "Chevalier forestier"
+
+#. [unit_type]: id=rel_danseGuerre, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Danse-guerre.cfg:4
+msgid "War danser"
+msgstr "Danseur de guerre"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\rov_elf\Danse-guerre.cfg:26
+msgid "war danse"
+msgstr "danse de guerre"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Danse-guerre.cfg:38
+msgid "female^War danser"
+msgstr "Danseuse de guerre"
+
+#. [unit_type]: id=rel_danseLame, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Danse-lame.cfg:4
+msgid "Blade danser"
+msgstr "Danse-lame"
+
+#. [attack]: type=blade
+#: Armies_of_Amberan\units\rov_elf\Danse-lame.cfg:25
+msgid "blade danse"
+msgstr "danse des lames"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Danse-lame.cfg:37
+msgid "female^Blade danser"
+msgstr "Danse-lame"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Epeiste.cfg:36
+msgid "female^Swordman"
+msgstr "épéiste"
+
+#. [unit_type]: id=rel_gardeRoyal, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Garde-royal.cfg:4
+msgid "Royal guard"
+msgstr "Garde royal"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Garde-royal.cfg:44
+msgid "female^Royal guard"
+msgstr "Garde royale"
+
+#. [unit_type]: id=rel_hautSeigneur, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Haut-Seigneur.cfg:4
+msgid "High lord"
+msgstr "Haut seigneur"
+
+#. [attack]: type=arcane
+#: Armies_of_Amberan\units\rov_elf\Haut-Seigneur.cfg:37
+#: Armies_of_Amberan\units\rov_elf\Noble.cfg:33
+#: Armies_of_Amberan\units\rov_elf\Seigneur.cfg:36
+msgid "faerie fire"
+msgstr "flammes féériques"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Haut-Seigneur.cfg:50
+msgid "female^High lady"
+msgstr "Haute dame"
+
+#. [unit_type]: id=rel_lancier, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Lancier.cfg:4
+msgid "Spearman"
+msgstr "Lancier"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Lancier.cfg:35
+msgid "female^Lancier"
+msgstr "Lancière"
+
+#. [unit_type]: id=rel_maitreArcher, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Maitre-archer.cfg:4
+msgid "Master archer"
+msgstr "Maître archer"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Maitre-archer.cfg:46
+msgid "female^Master archer"
+msgstr "Maîtresse archère"
+
+#. [unit_type]: id=rel_maitreEpeiste, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Maitre-epeiste.cfg:4
+msgid "Blademaster"
+msgstr "Maître lame"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Maitre-epeiste.cfg:37
+msgid "female^Blademaster"
+msgstr "Maîtresse lame"
+
+#. [unit_type]: id=rel_patrouilleurForestier, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Patrouilleur-forestier.cfg:4
+msgid "Forest patroll"
+msgstr "Patrouilleur forestier"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Ranger.cfg:54
+msgid "female^Ranger"
+msgstr "Rôdeuse"
+
+#. [unit_type]: id=rel_soigneur, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Soigneur.cfg:4
+msgid "Healer"
+msgstr "Soigneuse"
+
+#. [unit_type]: id=rel_avenger, race=rovElfe
+#: Armies_of_Amberan\units\rov_elf\Vengeur.cfg:4
+msgid "Avenger"
+msgstr "Vengeure"
+
+#. [female]
+#: Armies_of_Amberan\units\rov_elf\Vengeur.cfg:55
+msgid "female^Avenger"
+msgstr "Vengeuse"
 
 #. [unit_type]: id=rov_arbaletrierAvecPavois, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_avec_pavois.cfg:4
 msgid "Crossbowman with bulwark"
-msgstr ""
+msgstr "Arbalétrier avec pavois"
 
 #. [unit_type]: id=rov_arbaletrierLourd, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_lourd.cfg:4
+#, fuzzy
 msgid "Heavy crossbow"
-msgstr ""
+msgstr "arbalète lourde"
 
 #. [unit_type]: id=rov_arbaletrierPaysan, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_paysan.cfg:4
 msgid "Peasant crossbowman"
-msgstr ""
+msgstr "Arbalétrier paysan"
 
 #. [attack]: type=blade
 #: Armies_of_Amberan\units\rovahr\Arbaletrier_paysan.cfg:29
 #: Armies_of_Amberan\units\rovahr\Archer_long.cfg:29
 msgid "shortsword"
-msgstr ""
+msgstr "épée courte"
 
 #. [unit_type]: id=rov_archerRoyal, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Archer_royal.cfg:4
 msgid "Royal archer"
-msgstr ""
+msgstr "Archer royal"
 
 #. [unit_type]: id=rov_archevequeGuerrier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Archeveque_guerrier.cfg:4
 msgid "Archbishop-fighter"
-msgstr ""
+msgstr "Archevêque-guerrier"
 
 #. [attack]: type=impact
 #: Armies_of_Amberan\units\rovahr\Archeveque_guerrier.cfg:38
 #: Armies_of_Amberan\units\rovahr\Eveque_guerrier.cfg:37
+#, fuzzy
 msgid "warhammer"
-msgstr ""
+msgstr "marteau de guerre"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\rovahr\Archeveque_guerrier.cfg:47
 #: Armies_of_Amberan\units\rovahr\Eveque_guerrier.cfg:46
 #: Armies_of_Amberan\units\rovahr\Moine-soldat.cfg:41
 #: Armies_of_Amberan\units\rovahr\Pretre_guerrier.cfg:44
+#, fuzzy
 msgid "battle light"
-msgstr ""
+msgstr "lumière de bataille"
 
 #. [unit_type]: id=rov_aspirantTemplier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Aspirant_templier.cfg:4
+#, fuzzy
 msgid "Aspirant templar"
-msgstr ""
+msgstr "Aspirant templier"
 
 #. [unit_type]: id=rov_capitaineMercenaire, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Capitaine_mercenaire.cfg:4
 msgid "Mercenary captain"
-msgstr ""
+msgstr "Capitaine mercenaire"
 
 #. [unit_type]: id=rov_chevalierAPieds, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Chevalier_a_pieds.cfg:4
 msgid "Knight on foots"
-msgstr ""
+msgstr "Chevalier à pieds"
 
 #. [unit_type]: id=rov_chevalierFeodal, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Chevalier_feodal.cfg:4
 msgid "Feudal knight"
-msgstr ""
+msgstr "Chevalier féodal"
 
 #. [unit_type]: id=rov_chevalierGothique, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Chevalier_gothique.cfg:4
 msgid "Gothic knight"
-msgstr ""
+msgstr "Chevalier gothique"
 
 #. [unit_type]: id=rov_chevalierGothiqueAPieds, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Chevalier_gothique_a_pieds.cfg:4
 msgid "Gothic kight on foots"
-msgstr ""
+msgstr "Chevalier gothique à pieds"
 
 #. [unit_type]: id=rov_evequeGuerrier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Eveque_guerrier.cfg:4
 msgid "Bishop-fighter"
-msgstr ""
+msgstr "Évêque-guerrier"
 
 #. [unit_type]: id=rov_grandInquisiteur, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Grand_inquisiteur.cfg:4
 msgid "Grand inquisitor"
-msgstr ""
+msgstr "Grand Inquisiteur"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\rovahr\Grand_inquisiteur.cfg:39
 #: Armies_of_Amberan\units\rovahr\Inquisiteur.cfg:37
+#, fuzzy
 msgid "blessed sword"
-msgstr ""
+msgstr "lame bénie"
+
+#. [attack]: type=pierce
+#: Armies_of_Amberan\units\rovahr\Grand_inquisiteur.cfg:48
+msgid "flintlock pistol"
+msgstr "pistolet"
 
 #. [unit_type]: id=rov_grandMage, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Grand_mage.cfg:4
 msgid "Grand mage"
-msgstr ""
+msgstr "Grand mage"
 
 #. [unit_type]: id=rov_grandMaitre, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Grand_maitre.cfg:4
 msgid "Grand master templar"
-msgstr ""
+msgstr "Grand maître templier"
 
 #. [unit_type]: id=rov_halbruder, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Halbruder.cfg:4
 msgid "Halbrüder"
-msgstr ""
+msgstr "Halbrüder"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\rovahr\Halbruder.cfg:29
 msgid "blesed sword"
-msgstr ""
+msgstr "lame bénie"
 
 #. [unit_type]: id=rov_hommeDArmes, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Homme_d_armes.cfg:4
+#, fuzzy
 msgid "Men at arms"
-msgstr ""
+msgstr "Homme d‘armes"
 
 #. [attack]: type=pierce
 #. [attack]: type=impact
@@ -2934,216 +3434,247 @@ msgstr ""
 #: Armies_of_Amberan\units\rovahr\Sergent.cfg:36
 #: Armies_of_Amberan\units\rovahr\Sergent.cfg:48
 msgid "battle hammer"
-msgstr ""
+msgstr "marteau de guerre"
 
 #. [unit_type]: id=rov_inquisiteur, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Inquisiteur.cfg:4
+#, fuzzy
 msgid "Inquisitor"
-msgstr ""
+msgstr "Inquisiteur"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\rovahr\Inquisiteur.cfg:46
+#, fuzzy
 msgid "hand crossbow"
-msgstr ""
+msgstr "arbalète de poing"
 
 #. [unit_type]: id=rov_jeuneChevalier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Jeune_chevalier.cfg:4
+#, fuzzy
 msgid "Young knight"
-msgstr ""
+msgstr "Jeune chevalier"
 
 #. [unit_type]: id=rov_konig, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Konig.cfg:4
+#, fuzzy
 msgid "König"
-msgstr ""
-
-#. [unit_type]: id=rov_leveeFeodale, race=rovahrien
-#: Armies_of_Amberan\units\rovahr\levee_feodale.cfg:4
-msgid "Feudal levy"
-msgstr ""
+msgstr "König"
 
 #. [unit_type]: id=rov_mercenaire, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Mercenaire.cfg:4
+#, fuzzy
 msgid "Mercenary"
-msgstr ""
+msgstr "Mercenaire"
 
 #. [unit_type]: id=rov_moineSoldat, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Moine-soldat.cfg:4
+#, fuzzy
 msgid "Monk-soldier"
-msgstr ""
+msgstr "Moine-soldat"
 
 #. [unit_type]: id=rov_novice, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Novice.cfg:4
+#, fuzzy
 msgid "Novice"
-msgstr ""
+msgstr "Novice"
 
 #. [female]
 #: Armies_of_Amberan\units\rovahr\Novice.cfg:50
+#, fuzzy
 msgid "female^Novice"
-msgstr ""
+msgstr "Novice"
 
 #. [attack]: type=pierce
 #: Armies_of_Amberan\units\rovahr\Paysan.cfg:29
 #: Armies_of_Amberan\units\rovahr\Paysan.cfg:38
+#, fuzzy
 msgid "fork"
-msgstr ""
+msgstr "fourche"
 
 #. [unit_type]: id=rov_pretreGuerrier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Pretre_guerrier.cfg:4
 msgid "Priest-fighter"
-msgstr ""
+msgstr "Prêtre-combattant"
 
 #. [unit_type]: id=rov_ritterbruder, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Ritterbruder.cfg:4
 msgid "Ritterbrüder"
-msgstr ""
+msgstr "Ritterbrüder"
 
 #. [attack]: type=arcane
 #: Armies_of_Amberan\units\rovahr\Ritterbruder.cfg:32
+#, fuzzy
 msgid "justice sword"
-msgstr ""
+msgstr "épée de justice"
 
 #. [unit_type]: id=rov_templier, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Templier.cfg:4
 msgid "Templar"
-msgstr ""
+msgstr "Templier"
 
 #. [unit_type]: id=rov_templierCapitaine, race=rovahrien
 #: Armies_of_Amberan\units\rovahr\Templier_capitaine.cfg:4
+#, fuzzy
 msgid "Templar-captain"
-msgstr ""
+msgstr "Templier-capitaine"
+
+#. [unit_type]: id=rov_leveeFeodale, race=rovahrien
+#: Armies_of_Amberan\units\rovahr\levee_feodale.cfg:4
+#, fuzzy
+msgid "Feudal levy"
+msgstr "Levée féodale"
 
 #. [race]: id=farengar
 #: Armies_of_Amberan\units\units.cfg:6
 msgid "race^Farengarian"
-msgstr ""
+msgstr "Farengarien"
 
 #. [race]: id=farengar
 #: Armies_of_Amberan\units\units.cfg:7
+#, fuzzy
 msgid "race+female^Farengarian"
-msgstr ""
+msgstr "Farengarienne"
 
 #. [race]: id=farengar
 #: Armies_of_Amberan\units\units.cfg:8
 msgid "race^Farengarians"
-msgstr ""
+msgstr "Farengariens"
 
 #. [race]: id=empfinn
 #: Armies_of_Amberan\units\units.cfg:17
 msgid "race^Bagolaro-Helgrindian"
-msgstr ""
+msgstr "Bagolaro-Helgrindois"
 
 #. [race]: id=empfinn
 #: Armies_of_Amberan\units\units.cfg:18
 msgid "race+female^Bagolaro-Helgrindian"
-msgstr ""
+msgstr "Bagolaro-Helgrindoise"
 
 #. [race]: id=empfinn
 #: Armies_of_Amberan\units\units.cfg:19
 msgid "race^Bagolaro-Helgrindians"
-msgstr ""
+msgstr "Bagolaro-Helgrindois"
 
 #. [race]: id=mauvilien
 #: Armies_of_Amberan\units\units.cfg:28
 msgid "race^Mauvîlian"
-msgstr ""
+msgstr "Mauvîlien"
 
 #. [race]: id=mauvilien
 #: Armies_of_Amberan\units\units.cfg:29
 msgid "race+female^Mauvîlian"
-msgstr ""
+msgstr "Mauvîlienne"
 
 #. [race]: id=mauvilien
 #: Armies_of_Amberan\units\units.cfg:30
+#, fuzzy
 msgid "race^Mauvilians"
-msgstr ""
+msgstr "Mauvîliens"
 
 #. [race]: id=nordian
 #: Armies_of_Amberan\units\units.cfg:39
+#, fuzzy
 msgid "race^Nordian"
-msgstr ""
+msgstr "Nordian"
 
 #. [race]: id=nordian
 #: Armies_of_Amberan\units\units.cfg:40
+#, fuzzy
 msgid "race+female^Nordian"
-msgstr ""
+msgstr "Nordianne"
 
 #. [race]: id=nordian
 #: Armies_of_Amberan\units\units.cfg:41
 msgid "race^Nordians"
-msgstr ""
+msgstr "Nordians"
 
 #. [race]: id=rovahrien
 #: Armies_of_Amberan\units\units.cfg:50
 msgid "race^Rovahrian"
-msgstr ""
+msgstr "Rovahrien"
 
 #. [race]: id=rovahrien
 #: Armies_of_Amberan\units\units.cfg:51
+#, fuzzy
 msgid "race+female^Rovahrian"
-msgstr ""
+msgstr "Rovahrienne"
 
 #. [race]: id=rovahrien
 #: Armies_of_Amberan\units\units.cfg:52
 msgid "race^Rovahrians"
-msgstr ""
+msgstr "Rovahriens"
 
 #. [race]: id=galien
 #: Armies_of_Amberan\units\units.cfg:61
+#, fuzzy
 msgid "race^Galian"
-msgstr ""
+msgstr "Galien"
 
 #. [race]: id=galien
 #: Armies_of_Amberan\units\units.cfg:62
+#, fuzzy
 msgid "race^Galians"
-msgstr ""
+msgstr "Galiens"
 
 #. [race]: id=farNain
 #: Armies_of_Amberan\units\units.cfg:71
+#, fuzzy
 msgid "race^Dwarf of Farengar"
-msgstr ""
+msgstr "Nain de Farengar"
 
 #. [race]: id=farNain
 #: Armies_of_Amberan\units\units.cfg:72
 msgid "race^Dwarves of Farengar"
-msgstr ""
+msgstr "Nains de Farengar"
 
 #. [race]: id=morken
 #: Armies_of_Amberan\units\units.cfg:83
+#, fuzzy
 msgid "race^Dwarf of Morkenost"
-msgstr ""
+msgstr "Nain de Morkenost"
 
 #. [race]: id=morken
 #: Armies_of_Amberan\units\units.cfg:84
 msgid "race^Dwarves of Morkenost"
-msgstr ""
+msgstr "Nains de Morkenost"
 
 #. [race]: id=darfen
 #: Armies_of_Amberan\units\units.cfg:95
+#, fuzzy
 msgid "race^Dwarf of Darfenlend"
-msgstr ""
+msgstr "Nain de Darfenlend"
 
 #. [race]: id=darfen
 #: Armies_of_Amberan\units\units.cfg:96
 msgid "race+female^Dwarf of Darfenlend"
-msgstr ""
+msgstr "Naine de Darfenlend"
 
 #. [race]: id=darfen
 #: Armies_of_Amberan\units\units.cfg:97
 msgid "race^Dwarves of Darfenlend"
-msgstr ""
+msgstr "Nains de Darfenlend"
 
-#. [era]: id=era_amberan
-#: Armies_of_Amberan\_main.cfg:35
-msgid "Armies of Amberan"
-msgstr ""
+#. [race]: id=gobmon
+#: Armies_of_Amberan\units\units.cfg:111
+msgid "race^Mountain Goblin"
+msgstr "Gobelin des montagnes"
 
-#. [era]: id=hero_amberan
-#: Armies_of_Amberan\_main.cfg:54
-msgid "Heroes of Amberan"
-msgstr ""
+#. [race]: id=gobmon
+#: Armies_of_Amberan\units\units.cfg:112
+msgid "race^Mountain Goblins"
+msgstr "Gobelins des montagnes"
 
-#. [era]: id=lord_amberan
-#: Armies_of_Amberan\_main.cfg:74
-msgid "Lords of Amberan"
-msgstr ""
+#. [race]: id=rovElfe
+#: Armies_of_Amberan\units\units.cfg:125
+msgid "race^Rovahr Elf"
+msgstr "Elfe rovahrien"
 
+#. [race]: id=rovElfe
+#: Armies_of_Amberan\units\units.cfg:126
+msgid "race+female^Rovahr Elf"
+msgstr "Elfe rovahrien"
+
+#. [race]: id=rovElfe
+#: Armies_of_Amberan\units\units.cfg:127
+msgid "race^Rovahr Elves"
+msgstr "Elfes rovahrien"
